@@ -1,7 +1,8 @@
 #!/bin/bash
 cd ~/thesurvivor2299
-wget -pkN --random-wait http://thesurvivor2299.com/index.html
-rm index.html
+wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/index.html
+wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/country.html
+wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/noentry.html
 git add .
 git commit . -m "Updated."
 git push
