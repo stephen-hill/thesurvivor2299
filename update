@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/thesurvivor2299
 wget -pkN http://thesurvivor2299.com/index.html
 git add .
 git commit . -m "Updated."
