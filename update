@@ -1,8 +1,8 @@
 #!/bin/bash
 cd ~/thesurvivor2299
-wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/index.html
-wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/country.html
-wget -pkqm --no-cache --random-wait --no-dns-cache http://thesurvivor2299.com/noentry.html
+wget -pkmr --no-cache --random-wait --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/index.html
+wget -pkmr --no-cache --random-wait --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/country.html
+wget -pkmr --no-cache --random-wait --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/noentry.html
 git add .
 git commit . -m "Updated."
 git push
