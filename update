@@ -1,2 +1,5 @@
 #!/bin/bash
 wget -p -k -N http://thesurvivor2299.com/
+git add .
+git commit . -m "Updated."
+git push
