@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Monofonto';
-    src: url('/assets/fonts/monofont-webfont.eot');
-    src: url('/assets/fonts/monofont-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/monofont-webfont.woff') format('woff'),
-         url('/assets/fonts/monofont-webfont.ttf') format('truetype'),
-         url('/assets/fonts/monofont-webfont.svg#monofontoregular') format('svg');
+    src: url('http://thesurvivor2299.com/assets/fonts/monofont-webfont.eot');
+    src: url('../fonts/monofont-webfont.eot') format('embedded-opentype'),
+         url('../fonts/monofont-webfont.woff') format('woff'),
+         url('../fonts/monofont-webfont.ttf') format('truetype'),
+         url('../fonts/monofont-webfont.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 
