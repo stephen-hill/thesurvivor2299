@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/thesurvivor2299
+git add .
+git commit . -m "Automated update."
+git push
