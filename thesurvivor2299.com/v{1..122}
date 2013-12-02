@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,6 +129,7 @@ function eraseCookie(name) {
 function SliderLaunch(id) {
 
 }
+
 </script>
 <script type="text/javascript">
 
@@ -144,17 +146,6 @@ function SliderLaunch(id) {
 </script>
 <script type="text/javascript">
             $(document).ready(function(){
-			 $(".art-count").kkcountdown({
-                	dayText		: 'day ',
-                	daysText 	: 'days ',
-                    hoursText	: 'h ',
-                    minutesText	: 'm ',
-                    secondsText	: 's',
-                    displayZeroDays : false,
-                     callback	: function() {
-                    },
-                    oneDayClass	: 'one-day'
-                });
                 $(".vid-count").kkcountdown({
                 	dayText		: ' ',
                 	daysText 	: ' ',
@@ -173,17 +164,20 @@ function SliderLaunch(id) {
 </head>
 <body style="background-color: black;">
 
-<div id="content">
-<span style="font-size: 40px; font-family: 'Monofonto';">Nuclear winter is coming in </span>  <span class="art-count" time="1385930100"></span>
 
+
+<div id="content">
+<span style="font-size: 40px; font-family: 'Monofonto';">KVNGR REV ALPHA PPS VT  PIZ UHMYLPVOQ CM XHWMZP. NBJB SPI'F BYQS QT D'Y BYFGEOB FI VQDYL MAQ. -NGQHT 5120-</span>
+<br>
+<span style="font-size: 40px; font-family: 'Monofonto';">Nuclear winter has come</span>
 
 
 
 <div id="top"></div>
-<div id="vid-count"> <span data-time="1386792000" class="vid-count"></span></div>
+<div id="vid-count"> <span class="vid-count" time="1386792000"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
-<audio src="/radio/Prov-5296576f14c63.mp3" autoplay loop>
+<audio src="/radio/Unknown-2-7667.mp3" autoplay loop>
 
 
 
