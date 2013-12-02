@@ -40,8 +40,9 @@ CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
 * N = No
 * KN = Back to you (invites only the called station to respond)
 * Attempted Translation:
-Calling [BR] (Black Row?) [OTST] (and Other Stations?) ground is safe [TL]. Level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
-* Notably, this mp3 returns to the naming convention used for most prior mp3’s. The only mp3’s to have broken this convention are the three “Unko
+Calling (Black Row?) (and Other Stations?) ground is safe [TL]. Level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
+* Notably, this mp3 returns to the naming convention used for most prior mp3’s. The only mp3’s to have broken this convention are the three “Unknown-7667” mp3’s
+* “TI” in the mp3 filename may refer to “The Institute”, indicating that The Institute is the one sending this message. It may also indicate that The Institute perpetrated the attack on Vault 119.
 
 
 03:28 - New Morse code (Unknown-3-7667)
@@ -502,6 +503,12 @@ Thu, 14 Nov 2013 20:00:00 GMT
 	Ninth morse code on the front page.
 	Active
 	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. (We want Mark I? We won’t make it?)
+	TI-529c94d1b9e57.mp3
+Mon, 02 Dec 2013 14:12:09 GMT
+	Tenth morse code on the front page
+	Active
+	
+
 	The MP3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits after the decimal)
 ________________
 
