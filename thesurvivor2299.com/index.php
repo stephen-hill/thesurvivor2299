@@ -173,10 +173,10 @@ function SliderLaunch(id) {
 
 
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="817288"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="813679"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
-<audio src="/radio/Unknown-3-7667.mp3" autoplay loop>
+<audio src="/radio/TI-529c94d1b9e57.mp3" autoplay loop>
 
 
 
