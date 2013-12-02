@@ -40,9 +40,9 @@ CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
 * N = No
 * KN = Back to you (invites only the called station to respond)
 * Attempted Translation:
-Calling (Black Row?) (and Other Stations?) ground is safe [TL]. Level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
+Calling (Black Row?) (On the Site? and Other Stations?) ground is safe [TL]. Level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
 * Notably, this mp3 returns to the naming convention used for most prior mp3’s. The only mp3’s to have broken this convention are the three “Unknown-7667” mp3’s
-* “TI” in the mp3 filename may refer to “The Institute”, indicating that The Institute is the one sending this message. It may also indicate that The Institute perpetrated the attack on Vault 119.
+* “TI” in the mp3 filename may refer to “The Institute”, indicating that The Institute is the one sending this message. It may also indicate that The Institute perpetrated the attack on Vault 119. It is also possible that The Institute is only scouting out the area after 
 
 
 03:28 - New Morse code (Unknown-3-7667)
