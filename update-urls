@@ -25,6 +25,7 @@ do
 	wget -pmr --timeout=10 --connect-timeout=10 --read-timeout=10 --dns-timeout=10 --random-wait --no-cache --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/radio/Unknown-7-7667.mp3
 	wget -pmr --timeout=10 --connect-timeout=10 --read-timeout=10 --dns-timeout=10 --random-wait --no-cache --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/radio/Unknown-8-7667.mp3
 	wget -pmr --timeout=10 --connect-timeout=10 --read-timeout=10 --dns-timeout=10 --random-wait --no-cache --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" http://thesurvivor2299.com/radio/Unknown-9-7667.mp3
+	wget -pmr --timeout=10 --connect-timeout=10 --read-timeout=10 --dns-timeout=10 --random-wait --no-cache --no-dns-cache --referer=http://thesurvivor2299.com/index.html --user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1719.0 Safari/537.36" https://docs.google.com/document/d/1pJLwd0osKpnp6kEogWh6KAZZiM0Rh-odwWCDc3VEMVE/export?format=txt -O F4ArgRecentDevelopments.txt
 
 	# Try for vaults (Vault-Tec was commissioned to build only 122 such Vaults.)
 	for i in {1..122}
