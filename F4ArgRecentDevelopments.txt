@@ -30,8 +30,16 @@ Chronology:
 * Bolded times are “as near as facts as we can get.”
 * Italic times are speculation.
 * Dark blue is raw code, lighter blue and italic is assumed translation
+* Green are confirmed translations (should only be used for ciphers)
+* Red text are possible meanings
 
 
+Dec 3rd
+19:20 - A new audio file has been found on the radio page
+CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW D
+* Attempted translation:
+CALLING BLACK ROW. REPORTING SUSPECT ACTIVITY NEAR SECURED LOCATION THE INSTITUTE. 1 [VAULT DWELLER/VISUAL TARGET DETECTED] AND 3 UNKNOWN HUMANS 3 MILES NORTH WEST D-
+* IRC user Reyz7 suggests that OTST could mean ‘outpost’
 Dec 2nd
 23:00 - The Bethesda Black Friday/Cyber Monday posters are interpreted by some to look vaguely like a map of boston
 * One interpretation
@@ -48,6 +56,10 @@ REV FEAR - MGSS LHM'H EVHV KBIM'R QIUBMU. CB'L Z YYG MN HBM ZQSUB ZZAY
 THEY DON'T KNOW WHAT'S COMING. IT'S A KEY TO THE GREAT GAME
    * Desmond Lockheart (F3: Point Lookout character) mentions travelling north to pursue the “Great Game” of geniuses and billionaires
         
+
+
+
+
  
 14:20 - New Morse code (TI-529c94d1b9e57.mp3)
 CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
@@ -115,8 +127,6 @@ THE INSTITUTE IS SEALED. THEY WON'T HELP US. I'M HEADING TO BLACK ROW. -NGQHT 51
 18:00 - Site goes down, possibly under load.
 
 
-
-
 Nov 28th-30th
 No updates, possibly because Zenimax’s offices are closed for the Thanksgiving holiday. The ARG may have been planned such that the final pre-Apocalypse message (Boston is gone. No hope.) would be sent shortly before Thanksgiving, so that the lack of activity during the week of Thanksgiving could be explained by the falling of the bombs.
 
@@ -157,7 +167,10 @@ Nov 26th
 CQ CQ CQ DE VT 2510730 ONE SIX EMRG VT SHLT FER SURV QBN NR 119 ii EMRG VT SHLT FER SURV QBN NR 119 K
 * Attempted Translation:
 CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS, THIS IS VAULT TECHNICIAN 2510730 ONE SIX EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, REPEAT, EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, OVER
-* Words highlighted in RED are non-confident meanings
+
+
+
+
 * VT could stand for “Vault”, “Vault Terminal”, “Vault-Tec”, “Vault Technician”, or a location (town?)
 * NR could mean ‘NUMBER’ or ‘NEAR’
 * Number 119 is the Boston radio code for Fire Detail
@@ -227,7 +240,7 @@ Nov 23rd:
 
 
 19:30 - Cipher (Beaufort) added to frontpage, translates to:
-“THE QUABBIN RESERVOIR 7 04 2299”
+THE QUABBIN RESERVOIR 7 04 2299
    * “BFT” is the Beaufort, “CASE/S” is crossed-out, and believed to mean it is not “case sensitive”, “UPPR” may mean “uppercase”.
    * Deciphered message: The dates from the previous cipher (11/25, monday) and (12/27, friday) are the key “mondayfriday”. Passing through a Beaufort decoder, it reads “enineninowtowtruoforeznevesriovresernibbauqeht”. Reading it backwards, you get “the quabbin reservoir seven zero four two two nine nine”. Quabbin Reservoir is in Massachusetts. 
 
@@ -246,7 +259,7 @@ Nov 23rd:
 
 00:00 - Cipher changed on site’s frontpage, (Vigenere) translates to:
 
-VGNR   [CAP] - ***? - LET- “12/27/2013 || 11/25/2013”
+VGNR   [CAP] - ***? - LET- “12/27/2013 || 11/25/2013
 The VGNR is believed to refer to it being a Vigenere cipher. CAP = Cipher Analytical Protocol The keyword SEVEN was gotten from the morse code at the end of the phone call (Nov 21 11:00PM) which translated to “CODE7667” with the “***?” indicating that we should use the 4th number.
 
 
@@ -254,7 +267,7 @@ Nov 22nd:
 15:30 - New cipher (Caesar) added to frontpage, translates to:
 
 
-”MY DEAR SISTER. I’M HEADING TO THE INSTITUTE. GOD KNOWS WHAT HAPPENED TO THIS PLACE NOW. THIS OLD BASTARD WILL HELP US. HE MUST HELP US. –0321–”
+MY DEAR SISTER. I’M HEADING TO THE INSTITUTE. GOD KNOWS WHAT HAPPENED TO THIS PLACE NOW. THIS OLD BASTARD WILL HELP US. HE MUST HELP US. –0321–
 
 
 00:45 - Site frontpage changed:
@@ -560,7 +573,7 @@ Red Herrings (bad leads, ignore):
    * Erik Todd Dellums: The voice actor for Three Dog. Has stated he’s “just a fan”, and doesn’t know any more than we do. He’s maintained a Twitter account broadcasting daily Fallout themed music for a year. It is encouraged not to pester Erik as even if he did know something, he is bound to a Non Disclosure Agreement with legal repercussions if broken, he won’t break it just because some fanboy on the internet asked nicely. Just like to point to my post about ETD, covering his antics the past few months
    * Cindy Tallent, Executive Vice President and Chief Financial Officer at ZeniMax has the 877-260-2299 number the site teased currently registered to her name. She has links to Bethesda’s marketing department, ‘Vir2l Media’ who would be behind this site if it is legit. It’s emphasised that the site owner, whoever that may be, had access to this number in order to shut it down after we had gained the code. This is all she will be relevant for as she will also be bound by an NDA, and as she is on the corporate side of the company, she might not actually know much about Fallout 4 at all other than finances and in-direct marketing.
    * Reddit user hotsnowbchyn posted a number of equations, that, when added up and put into a direct alphabet-to-number cypher, says: 
-   * "THIS IS THE OVERSEEVTF [sic] VAULT 137  REQESTING [sic] HELP VE [sic] ARE FREEZING AND RUNNING OUT OF FOOD"
+   * THIS IS THE OVERSEEVTF [sic] VAULT 137  REQESTING [sic] HELP VE [sic] ARE FREEZING AND RUNNING OUT OF FOOD
    * vaultofthefuture.net doesn’t fit the art style of Fallout whatsoever, and the html is questionable. It links to the official twitter, yet not the official facebook? Fake.
    * Most, if not all of the HAM radio transmissions have been concluded to be fake.
    * vault119.com is fake, as it was registered Nov 29 by namecheap.com
