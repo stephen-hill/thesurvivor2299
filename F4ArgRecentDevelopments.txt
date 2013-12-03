@@ -31,16 +31,19 @@ Chronology:
 * Italic times are speculation.
 * Dark blue is raw code, lighter blue and italic is assumed translation
 * Green are confirmed translations (should only be used for ciphers)
-* Red text are possible meanings
+* Orange text are possible words
+* Red text are unknown entirely
 
 
 Dec 3rd
 19:20 - New Morse code (Broken-Harvard-Bridge)
-CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW D
+CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D or K]
 * Attempted translation:
-CALLING BLACK ROW ON THE SITE. REPORTING SUSPECT ACTIVITY NEAR SECURED LOCATION THE INSTITUTE. 1 [VAULT DWELLER/VISUAL TARGET DETECTED]; [AND/NO]; 3 UNKNOWN HUMANS 3 MILES NORTH WEST D-
+CALLING BLACK ROW OUTSTATION. REPORTING SUSPICIOUS ACTIVITY NEAR SECURE LOCATION THE INSTITUTE. 1 [VAULT DWELLER/VISUAL TARGET DETECTED]; 02 AND/NO; 3 UNKNOWN HUMANS 03 MILES NORTH WEST D-
 * IRC user Reyz7 suggests that OTST could mean ‘outpost’
-* ‘D-’ could be a cut off transmission of ‘DX’ - distance or ‘DE’ - from
+* ‘D-’ could be a cut off transmission of ‘DX’ - distance or ‘DE’ - from, or a cutoff K - over.
+* IRC user Anorian pointed out that outstation is a term used in radio transmissions
+* OTST/Outstation could be a Morse term for outpost and we will address it as such
 
 
 Dec 2nd
@@ -60,11 +63,6 @@ REV FEAR - MGSS LHM'H EVHV KBIM'R QIUBMU. CB'L Z YYG MN HBM ZQSUB ZZAY
    * Translation with a Keyed Vigniere Cipher (Key = SYNTH, Alphabet = “ZYXW...”)
 THEY DON'T KNOW WHAT'S COMING. IT'S A KEY TO THE GREAT GAME
    * Desmond Lockheart (F3: Point Lookout character) mentions travelling north to pursue the “Great Game” of geniuses and billionaires
-        
-
-
-
-
  
 14:20 - New Morse code (TI-529c94d1b9e57.mp3)
 CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
@@ -73,7 +71,7 @@ CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
 * GX = Ground
 * KN = Back to you (invites only the called station to respond)
 * Attempted Translation:
-CALLING BLACK ROW. ON THE SITE; GROUND IS SAFE. TOO LATE, LEVEL 4 BREACH. NO SURVIVORS, 899 CORPSES. WE ARE LEAVING VAULT 119. OVER, BACK TO YOU.
+CALLING BLACK ROW. OUTPOST; GROUND IS SAFE. TOO LATE, LEVEL 4 BREACH. NO SURVIVORS, 899 CORPSES. WE ARE LEAVING VAULT 119. OVER, BACK TO YOU.
 * Notably, this mp3 returns to the naming convention used for most prior mp3’s. The only mp3’s to have broken this convention are the three “Unknown-7667” mp3’s
 * “TI” in the mp3 filename may refer to “The Institute”, indicating that The Institute is the one sending this message.It is also that The Institute is scouting out the area after receiving the previous Morse transmission (Unknown-3-7667).
 
@@ -551,7 +549,7 @@ Tue, 03 Dec 2013 19:20:00 GMT
 *Approximate time
 	Eleventh Morse code on the front page
 	Active
-	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 [Vault Dweller/Visual Target Detected]; [and/no]; 3 unknown humans 3 miles north-west. D-
+	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 [Vault Dweller/Visual Target Detected]; 02 [and/no]; 3 unknown humans 3 miles north-west. D-
 	The MP3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
 ________________
 
