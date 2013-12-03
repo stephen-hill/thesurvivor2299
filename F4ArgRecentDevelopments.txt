@@ -35,12 +35,17 @@ Chronology:
 
 
 Dec 3rd
-19:20 - A new audio file has been found on the radio page
+19:20 - New Morse code (Broken-Harvard-Bridge)
 CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW D
 * Attempted translation:
-CALLING BLACK ROW. REPORTING SUSPECT ACTIVITY NEAR SECURED LOCATION THE INSTITUTE. 1 [VAULT DWELLER/VISUAL TARGET DETECTED] AND 3 UNKNOWN HUMANS 3 MILES NORTH WEST D-
+CALLING BLACK ROW ON THE SITE. REPORTING SUSPECT ACTIVITY NEAR SECURED LOCATION THE INSTITUTE. 1 [VAULT DWELLER/VISUAL TARGET DETECTED]; [AND/NO]; 3 UNKNOWN HUMANS 3 MILES NORTH WEST D-
 * IRC user Reyz7 suggests that OTST could mean ‘outpost’
+* ‘D-’ could be a cut off transmission of ‘DX’ - distance or ‘DE’ - from
+
+
 Dec 2nd
+
+
 23:00 - The Bethesda Black Friday/Cyber Monday posters are interpreted by some to look vaguely like a map of boston
 * One interpretation
 * If anyone can make an animated gif or something that better showcases the similarities or differences, please submit it to one of the editors, as we’re so skeptical this is almost in the Red Herring category 
@@ -266,12 +271,10 @@ The VGNR is believed to refer to it being a Vigenere cipher. CAP = Cipher Analyt
 Nov 22nd:
 15:30 - New cipher (Caesar) added to frontpage, translates to:
 
-
 MY DEAR SISTER. I’M HEADING TO THE INSTITUTE. GOD KNOWS WHAT HAPPENED TO THIS PLACE NOW. THIS OLD BASTARD WILL HELP US. HE MUST HELP US. –0321–
 
 
 00:45 - Site frontpage changed:
-
 Nuclear winter is coming. Reserve your future home today! ###PERMISSION DENIED BY OVERSEER (15334) ###
 
 
@@ -286,8 +289,8 @@ Nuclear winter is coming. Reserve your future home today! 877-260-2299
 
 20:20 - Site’s background morse code has changed. The new code is:
 CQ/CQ/CQ/DE/OZ/PSE/AS
-Which translates to:
-“Calling any station. Calling any station. Calling any station. This is OZ. Please stand by.”
+   * Which translates to:
+CALLING ANY STATION. CALLING ANY STATION. CALLING ANY STATION. THIS IS OZ. PLEASE STAND BY.
 
 
 19:00 - Mp3 is found by accident that sounds a lot like a Fallout trailer’s soundtrack.
@@ -454,12 +457,12 @@ URL
 	Translation / [Significance]
 	bridgeport-5284ec0d1b93c.mp3
 Thu, 14 Nov 2013 15:28:13 GMT
-	Initial morse code on the background of front page
+	Initial Morse code on the background of front page
 	404
 	11.12.13, 12.11.13
 	V137-528ce4417e27d.mp3
 Wed, 20 Nov 2013 16:33:05 GMT
-	Second morse code on the background of front page. Has since been removed
+	Second Morse code on the background of front page. Has since been removed
 	404
 	CQ CQ CQ DE OZ PSE AS
 ________________
@@ -484,7 +487,7 @@ ________________
 [Fall River is ~52mi from Boston]
 	longfellow-52939ac559777.mp3
 Mon, 25 Nov 2013 18:45:25 GMT
-	Forth morse code on the background of front page. Has since been removed
+	Forth Morse code on the background of front page. Has since been removed
 	404
 	...NEW YORK STAGE 7, WASHINGTON STAGE 7..., etc
 
@@ -497,7 +500,7 @@ Fri, 15 Nov 2013 14:14:22 GMT
 ________________
 
 
-Fifth morse code on the front page. Has since been removed
+Fifth Morse code on the front page. Has since been removed
 	404
 	Calling all stations, calling all stations, calling all stations, this is (vault tec?) 2510730 one six emergency (vault tec?) shelter for survivors in quabbin, no.119, repeat, emergency vault tec shelter for survivors in quabbin, no.119, over
 
@@ -506,7 +509,7 @@ ________________
 [Hanscom AFB is ~22mi from Boston]
 	Prov-5296576f14c63.mp3
 Wed, 27 Nov 2013 20:34:55 GMT
-	Sixth morse code on the front page. Has since been removed
+	Sixth Morse code on the front page. Has since been removed
 
 
 
@@ -519,7 +522,7 @@ ________________
 [Providence is the capital city of Rhode Island. Providence is also the closest major city to Boston, located ~50mi away]
 	Unknown-7667.mp3
 Date unknown
-	Seventh morse code on the front page. Has since been removed
+	Seventh Morse code on the front page. Has since been removed
 
 
 	404
@@ -527,22 +530,28 @@ Date unknown
 	Unknown-2-7667.mp3
 Thu, 14 Nov 2013 20:00:00 GMT
 *May be lying, suspicious time
-	Eighth morse code on front page. Has since been removed
+	Eighth Morse code on front page. Has since been removed
 
 
 	Active
 	Calling all stations, this is Vault Overseer 119, anybody near Quabbin? SOS Vault door breach, repeat, SOS Vault door breach, enemy unknown, level 1, 2, and 3 gone, survivors on (service lift?) level 4
 	Unknown-3-7667.mp3
 Thu, 14 Nov 2013 20:00:00 GMT
-*May be lying, suspicious time
-	Ninth morse code on the front page. Has since been removed
+*Approximate time
+	Ninth Morse code on the front page. Has since been removed
 	Active
 	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. (We want Mark I? We won’t make it?)
 	TI-529c94d1b9e57.mp3
 Mon, 02 Dec 2013 14:10:25 GMT
-	Tenth morse code on the front page
+	Tenth Morse code on the front page
 	Active
 	Calling Black Row(?). On the site(?); ground is safe. Too late, level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
+	Broken-Harvard-Bridge-529e38ca8b92b.mp3
+Tue, 03 Dec 2013 19:20:00 GMT
+*Approximate time
+	Eleventh Morse code on the front page
+	Active
+	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 [Vault Dweller/Visual Target Detected]; [and/no]; 3 unknown humans 3 miles north-west. D-
 	The MP3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
 ________________
 
