@@ -30,7 +30,7 @@ Chronology:
 
 
 Dec 2nd
-19:30 - New page discovered: http://thesurvivor2299.com/VT119/
+19:30 - New page discovered (Imgur Backup)
 * When opened, the message “SY684> OVERRIDING PROTOCOL VT-15812 WITH KEY '7667'” begins to appear letter by letter, as if being typed in to a terminal. Below that, the message “Unknown Enemy Detected” appears with a flashing red background.
 * The page also contains the hidden message 
 REV FEAR - MGSS LHM'H EVHV KBIM'R QIUBMU. CB'L Z YYG MN HBM ZQSUB ZZAY
@@ -145,7 +145,7 @@ Nov 26th
 * CQ CQ CQ DE VT 2510730 ONE SIX EMRG VT SHLT FER SURV QBN NR 119 ii EMRG VT SHLT FER SURV QBN NR 119 K
 “Calling all stations, calling all stations, calling all stations, this is Vault Technician 2510730 one six emergency Vault-Tec shelter for survivors in Quabbin, number 119, repeat, emergency Vault-Tec shelter for survivors in Quabbin, number 119, over”
 * Words highlighted in RED are non-confident meanings
-* VT might mean “Vault”, “Vault-Tec”, “Vault Technician”, or a location (town?)
+* VT could stand for “Vault”, “Vault Terminal”, “Vault-Tec”, “Vault Technician”, or a location (town?)
 * NR could mean ‘NUMBER’ or ‘NEAR’
 * Number 119 is the Boston radio code for Fire Detail
 * Number 119 could also refer to Vermont 119, a road that passes near Quabbin
@@ -310,6 +310,12 @@ URL
 	Found by
 	Content
 	Significance
+	/VT119
+	
+
+	Active
+	
+
 	/V137
 	Guessing based on the .mp3 name of the third (current) morse code
 	404
@@ -506,7 +512,7 @@ Thu, 14 Nov 2013 20:00:00 GMT
 	Unknown-3-7667.mp3
 Thu, 14 Nov 2013 20:00:00 GMT
 *May be lying, suspicious time
-	Ninth morse code on the front page.
+	Ninth morse code on the front page. Has since been removed
 	Active
 	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. (We want Mark I? We won’t make it?)
 	TI-529c94d1b9e57.mp3
@@ -583,5 +589,4 @@ PM us on IRC if you have anything to submit/correct
       * dsmndlckhrt
       * afischer15/fischr
       * hitops
-      * AedanClarke
 SCHMAULT-TEC CONFIDENTIAL
