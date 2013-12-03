@@ -34,8 +34,9 @@ Dec 2nd
 * When opened, the message “SY684> OVERRIDING PROTOCOL VT-15812 WITH KEY '7667'” begins to appear letter by letter, as if being typed in to a terminal. Below that, the message “Unknown Enemy Detected” appears with a flashing red background.
 * The page also contains the hidden message 
 REV FEAR - MGSS LHM'H EVHV KBIM'R QIUBMU. CB'L Z YYG MN HBM ZQSUB ZZAY
-   * Translation with a Keyed Vigniere Cipher (Key = Synth, Alphabet = “ZYXW...”)
-        THEY DON'T KNOW WHAT'S COMING. IT'S A KEY TO THE GREAT GAME
+   * Translation with a Keyed Vigniere Cipher (Key = Synth, Alphabet = “ZYXW...”)        
+THEY DON'T KNOW WHAT'S COMING. IT'S A KEY TO THE GREAT GAME
+   * Desmond Lockheart (F3: Point Lookout character) mentions travelling north to pursue the “Great Game” of geniuses and billionaires
         
  
 14:20 - New Morse code (TI-529c94d1b9e57.mp3)
