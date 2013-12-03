@@ -155,7 +155,7 @@ Nov 26th
 
 19:02 - Front page has new morse code (hanscom-msg):
 CQ CQ CQ DE VT 2510730 ONE SIX EMRG VT SHLT FER SURV QBN NR 119 ii EMRG VT SHLT FER SURV QBN NR 119 K
-Attempted Translation:
+* Attempted Translation:
 CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS, THIS IS VAULT TECHNICIAN 2510730 ONE SIX EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, REPEAT, EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, OVER
 * Words highlighted in RED are non-confident meanings
 * VT could stand for “Vault”, “Vault Terminal”, “Vault-Tec”, “Vault Technician”, or a location (town?)
@@ -163,6 +163,8 @@ CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS, THIS IS VAULT 
 * Number 119 is the Boston radio code for Fire Detail
 * Number 119 could also refer to Vermont 119, a road that passes near Quabbin
 * (This is not the first message to end in a ‘K’, see Nov. 24th. Please don’t add again)
+
+
 
 
 Nov 25th:
@@ -175,7 +177,7 @@ Nov 25th:
 
 
 19:02 - Front page plays new morse code (longfellow): 
-“NCRA UNIT BST 314 7 EMRG MSG NEW YORK STAGE 7 WASHINGTON STAGE 7 LOS ANGELES STAGE 7 AUSTIN STAGE 7 CHICAGO STAGE 7 NEW ORLEAN STAGE 7 LAS VEGAS UNKNOWN MIAMI STAGE 7 DALLAS STAGE 7 DENVER STAGE 7 SAN DIEGO STAGE 7 SAN FRANCISCO STAGE 7 BOSTO-”
+NCRA UNIT BST 314 7 EMRG MSG NEW YORK STAGE 7 WASHINGTON STAGE 7 LOS ANGELES STAGE 7 AUSTIN STAGE 7 CHICAGO STAGE 7 NEW ORLEANS STAGE 7 LAS VEGAS UNKNOWN MIAMI STAGE 7 DALLAS STAGE 7 DENVER STAGE 7 SAN DIEGO STAGE 7 SAN FRANCISCO STAGE 7 BOSTO-
 * It appears the message was cut off part way through saying ‘Boston’, before giving it’s stage number
 * The ‘Stage 7’ refers the the International Nuclear Event Scale, ‘Stage 7’ being the most severe.
 * The morse ends just before Boston is given a stage level, possibly indicating the senders location was hit
@@ -183,17 +185,17 @@ Nov 25th:
 * NCRA is possibly an acronym for National Catastrophe Relief Auxiliary, a group that was dispatched the day before the Great War to various locations in case of emergencies
 * ‘UNIT BST 314 7’ may be referring to a military or science unit stationed in Boston, and/or giving it’s current scale level (e.g. Unit 314 Boston - Stage 7?) as it is uncommon to use breaks in a military detachment or science team without the use of a hyphen 
 Nov 24th:
-22:00 - IRC user dsmndlckhrt suggests a possible Fallout 4 map, based on locations in the ARG.
+22:00 - IRC user ‘dsmndlckhrt’ suggests a possible Fallout 4 map, based on locations in the ARG.
 20:44 - Front Page has changed (fall-river):
 * New front page countdown: “Nuclear winter is coming in #days #h #m #s” (Dec 1st)
    * New countdown is named “art-count”, possibly to concept art release? If so, previous countdown is “vid-count”, possibly to video release?
 * New morse code mp3:
-   * OZ De SZ Msg + EF Is Hit ii EF Is Hit K
+OZ DE SZ MSG + EF IS HIT II EF IS HIT K
    * Common morse code shorthand says: De = “this is” or “from”, Msg = “message: “
    * Based on the (now 404’d) /525478, we can read OZ as BGP (Bridgeport??), SZ as CNC (Commander in Chief?? Concord (Massachusetts)? USS Connecticut?), and EF as Quabbin Reservoir
    * CNC is probably Concord MA, given its proximity to the Quabbin Reservoir
-   * Possible Translation: 
-“Bridgeport, this is Concord (MA), message: Quabbin Reservoir is hit, repeat, Quabbin Reservoir is hit, over.”
+   * Attempted translation: 
+BRIDGEPORT, THIS IS CONCORD (MA), MESSAGE: QUABBIN RESERVOIR IS HIT, REPEAT, QUABBIN RESERVOIR IS HIT, OVER.
 
 20:00-20:18 - New links/activity discovered (404’d 30 minutes later):
 * /525478 says “QBN = EF | BGP = OZ | CNC = SZ” | currently 404 imgur backup
