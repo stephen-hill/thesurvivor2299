@@ -432,12 +432,12 @@ URL
 	bridgeport-5284ec0d1b93c.mp3
 Thu, 14 Nov 2013 15:28:13 GMT
 	Initial morse code on the background of front page
-	Active
+	404
 	11.12.13, 12.11.13
 	V137-528ce4417e27d.mp3
 Wed, 20 Nov 2013 16:33:05 GMT
 	Second morse code on the background of front page. Has since been removed
-	Active
+	404
 	CQ CQ CQ DE OZ PSE AS
 ________________
 
@@ -449,7 +449,7 @@ Fri, 15 Nov 2013 14:17:36 GMT
 ________________
 
 Third morse code on the background of front page. Has since been removed
-	Active
+	404
 	“OZ  DE  SZ Msg + EF Is Hit II EF Is Hit K”
 
 ________________
@@ -462,7 +462,7 @@ ________________
 	longfellow-52939ac559777.mp3
 Mon, 25 Nov 2013 18:45:25 GMT
 	Forth morse code on the background of front page. Has since been removed
-	Active
+	404
 	...NEW YORK STAGE 7, WASHINGTON STAGE 7..., etc
 
 ________________
@@ -475,7 +475,7 @@ ________________
 
 
 Fifth morse code on the front page. Has since been removed
-	Active
+	404
 	Calling all stations, calling all stations, calling all stations, this is (vault tec?) 2510730 one six emergency (vault tec?) shelter for survivors in quabbin, no.119, repeat, emergency vault tec shelter for survivors in quabbin, no.119, over
 
 ________________
@@ -488,7 +488,7 @@ Wed, 27 Nov 2013 20:34:55 GMT
 
 
 
-	Active
+	404
 	Calling all stations, calling all stations, calling all stations. Boston is gone, I repeat, Boston is gone. No Hope. Frequency 3450 Return Transmission.  God Bless America.
 ________________
 
@@ -499,7 +499,7 @@ Date unknown
 	Seventh morse code on the front page. Has since been removed
 
 
-	Active
+	404
 	Calling all stations, this is overseer 119 emergency enemy unknown, SOS. Vault 119 Quabbin 7667, repeat, SOS, Vault 119 Quabbin 7667 enemy unknown.
 	Unknown-2-7667.mp3
 Thu, 14 Nov 2013 20:00:00 GMT
@@ -519,8 +519,7 @@ Thu, 14 Nov 2013 20:00:00 GMT
 Mon, 02 Dec 2013 14:10:25 GMT
 	Tenth morse code on the front page
 	Active
-	
-
+	Calling Black Row(?). On the site(?); ground is safe. Too late, level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
 	The MP3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
 ________________
 
