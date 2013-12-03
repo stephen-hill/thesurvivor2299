@@ -16,6 +16,7 @@ General Info:
 * The Site
 * Short-URL to this Doc: http://goo.gl/Bg5Lpj
 * Archive of changes to the Site, Email Notifications
+* Fallout 4 News Twitter (run by IRC user ilusionz)
 * A wiki (in progress) organizing this Doc a little better
 * Google’s site map listing search
 * Neat Map of locations mentioned so far in the Arg by Zakerias
