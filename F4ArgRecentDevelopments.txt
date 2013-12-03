@@ -29,6 +29,7 @@ Chronology:
 * All times are in UTC/GMT (PST is -8, EST is -5).
 * Bolded times are “as near as facts as we can get.”
 * Italic times are speculation.
+* Dark blue is raw code, lighter blue and italic is assumed translation
 
 
 Dec 2nd
@@ -55,7 +56,7 @@ CLG BR OTST GX IS SF TL LVL 4 BRE N SRV 899 CRPS WE LVG VT 119 KN
 * GX = Ground
 * KN = Back to you (invites only the called station to respond)
 * Attempted Translation:
-Calling (BR = Black Row?). (OTST = On the site? ); ground is safe. Too late, level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
+CALLING BLACK ROW. ON THE SITE; GROUND IS SAFE. TOO LATE, LEVEL 4 BREACH. NO SURVIVORS, 899 CORPSES. WE ARE LEAVING VAULT 119. OVER, BACK TO YOU.
 * Notably, this mp3 returns to the naming convention used for most prior mp3’s. The only mp3’s to have broken this convention are the three “Unknown-7667” mp3’s
 * “TI” in the mp3 filename may refer to “The Institute”, indicating that The Institute is the one sending this message.It is also that The Institute is scouting out the area after receiving the previous Morse transmission (Unknown-3-7667).
 
@@ -63,7 +64,7 @@ Calling (BR = Black Row?). (OTST = On the site? ); ground is safe. Too late, lev
 03:28 - New Morse code (Unknown-3-7667)
 CQ CQ CQ DE VT 119 SOS LVL4 UND ATTK OS IS DEAD II SOS LVL4 UND ATTK OS IS DEAD WE WNT MK I
 * Attempted translation:
-Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. (We want Mark I? We won’t make it?)
+CALLING ALL STATIONS, THIS IS VAULT 119, SOS, LEVEL 4 IS UNDER ATTACK, OVERSEER IS DEAD, REPEAT, SOS, LEVEL 4 IS UNDER ATTACK, OVERSEER IS DEAD. WE WON’T MAKE IT.
 
 
 Dec 1st
@@ -73,24 +74,24 @@ Dec 1st
 22:03 - New Morse code (Unknown-2-7667)
 CQ CQ CQ DE VT OS 119 ANB NR QBN SOS V DR BRE II SOS V DR BRE EN UNKN LVL 1 2 3 GONE SRV ON SL LVL 4
 * Attempted translation:
-Calling all stations, this is Vault Overseer 119, anybody near Quabbin? SOS Vault door breach, repeat, SOS Vault door breach, enemy unknown, level 1, 2, and 3 gone, survivors on (service lift? sealed? secure location?) level 4
+CALLING ALL STATIONS, THIS IS VAULT OVERSEER 119, ANYBODY NEAR QUABBIN? SOS VAULT DOOR BREACH, REPEAT, SOS VAULT DOOR BREACH, ENEMY UNKNOWN, LEVEL 1, 2, AND 3 GONE, SURVIVORS ON (SERVICE LIFT? SEALED? SECURE LOCATION?) LEVEL 4
 
 
 
 
 21:10 - New Morse code (Unknown-7667)
-cq cq cq de ovs 119 emrg en unkn sos sos sos vt 119 qbn 7667 ii sos sos sos vt 119 qbn 7667 en unkn
+CQ CQ CQ DE OVS 119 EMRG EN UNKN SOS SOS SOS VT 119 QBN 7667 II SOS SOS SOS VT 119 QBN 7667 EN UNKN
 * qc: Calling all stations
 * sos: General distress call. It does NOT stand for anything specific.
 * Translation attempted:
-Calling all stations, this is overseer 119 emergency enemy unknown, SOS. Vault 119 Quabbin 7667, repeat, SOS, Vault 119 Quabbin 7667 enemy unknown.
+CALLING ALL STATIONS, THIS IS OVERSEER 119 EMERGENCY ENEMY UNKNOWN, SOS. VAULT 119 QUABBIN 7667, REPEAT, SOS, VAULT 119 QUABBIN 7667 ENEMY UNKNOWN.
 * Unusually, this MP3 breaks the file naming convention. It is named Unknown-7667.mp3, breaking the Location-timestamp.mp3 naming convention.
 
 
 20:35 - The timer expires, site struggles under heavy load, New message:
 KVNGR REV ALPHA PPS VT    PIZ UHMYLPVOQ CM XHWMZP. NBJB SPI'F BYQS QT D'Y BYFGEOB FI VQDYL MAQ. -NGQHT 5120- 
-* Translation attempted:
-THE INSTITUTE IS SEALED. THEY WON'T HELP US.    I'M HEADING TO BLACK ROW. -NGQHT 5120-
+* Attempted Translation:
+THE INSTITUTE IS SEALED. THEY WON'T HELP US. I'M HEADING TO BLACK ROW. -NGQHT 5120-
 * It’s a reversed (REV ALPHA) keyed Vigénere cipher (KVNGR), using passphrase “VAULT TEC” (PPS VT)
 * It is still unclear what -TBNLS 5120-  is-possibly a sign off.
 * This is the first time “Vault Tec” has been mentioned in the ARG.
@@ -114,6 +115,8 @@ THE INSTITUTE IS SEALED. THEY WON'T HELP US.    I'M HEADING TO BLACK ROW. -NGQHT
 18:00 - Site goes down, possibly under load.
 
 
+
+
 Nov 28th-30th
 No updates, possibly because Zenimax’s offices are closed for the Thanksgiving holiday. The ARG may have been planned such that the final pre-Apocalypse message (Boston is gone. No hope.) would be sent shortly before Thanksgiving, so that the lack of activity during the week of Thanksgiving could be explained by the falling of the bombs.
 
@@ -131,16 +134,16 @@ Nov 27th
 
 
 20:30 - Front page has new morse code (prov):
-* CQ CQ CQ BST IS GONE II BST IS GONE N HPE FREQ 3450 RT GB AMERICA
-
-“Calling all stations, calling all stations, calling all stations. Boston is gone, I repeat, Boston is gone. No Hope. Frequency 3450 Return Transmission. God Bless America.”
+CQ CQ CQ BST IS GONE II BST IS GONE N HPE FREQ 3450 RT GB AMERICA
+* Attempted translation:
+CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS. BOSTON IS GONE, I REPEAT, BOSTON IS GONE. NO HOPE. FREQUENCY 3450 RETURN TRANSMISSION. GOD BLESS AMERICA.
 * The frequency 3450 lead to the ~20:44 discovery of an odd transmission on 3450Hz.
 * File is named Prov; no confirmation of what it means yet. Some suggest Providence, RI, which is close to Boston.
 
 
 19:32 - IRC user threedog_ points out the favicon, when opened as a text file, reads “V119-QR”. 
 * This may stand for Vault 119 - Quabbin Reservoir.
-* The favicon’s date modified is Nov 26th 01:26
+* The favicon’s date modified is Nov 26th, 01:26
 
 
 Nov 26th
@@ -151,8 +154,9 @@ Nov 26th
 
 
 19:02 - Front page has new morse code (hanscom-msg):
-* CQ CQ CQ DE VT 2510730 ONE SIX EMRG VT SHLT FER SURV QBN NR 119 ii EMRG VT SHLT FER SURV QBN NR 119 K
-“Calling all stations, calling all stations, calling all stations, this is Vault Technician 2510730 one six emergency Vault-Tec shelter for survivors in Quabbin, number 119, repeat, emergency Vault-Tec shelter for survivors in Quabbin, number 119, over”
+CQ CQ CQ DE VT 2510730 ONE SIX EMRG VT SHLT FER SURV QBN NR 119 ii EMRG VT SHLT FER SURV QBN NR 119 K
+Attempted Translation:
+CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS, THIS IS VAULT TECHNICIAN 2510730 ONE SIX EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, REPEAT, EMERGENCY VAULT-TEC SHELTER FOR SURVIVORS IN QUABBIN, NUMBER 119, OVER
 * Words highlighted in RED are non-confident meanings
 * VT could stand for “Vault”, “Vault Terminal”, “Vault-Tec”, “Vault Technician”, or a location (town?)
 * NR could mean ‘NUMBER’ or ‘NEAR’
