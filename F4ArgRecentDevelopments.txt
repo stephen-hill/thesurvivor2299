@@ -280,7 +280,8 @@ ________________
 
 
 Unsolved Riddles:
-   * Nothing now...
+Ciphers & Codes:
+   * Nothing right now...
 Loose Ends:
    * Nov 24 - 20:00 - “ONE” and “SIX”
    * Nov 24 - 17:10 - “2510730 PLEASE STAND BY” (may have just meant we had to wait for the 20:44 morse code)
@@ -293,16 +294,6 @@ Loose Ends:
 
 ________________
 Note: at around 20:45 on Nov 24th, all subpages with accessible content went 404 (excluding mp3s)
-
-
-
-
-
-
-
-
-
-
 
 
 Known URLs:
@@ -580,6 +571,10 @@ ________________
 
 Screen Caps
 
+
+/VT119/
+
+/VT119/ hidden message
 
 
 Editors:
