@@ -314,8 +314,12 @@ URL
 	
 
 	Active
-	
+	SY684> OVERRIDING PROTOCOL VT-15812 WITH KEY '7667'
+UNKNOWN ENEMY DETECTED
 
+
+Hidden Message:
+REV FEAR - MGSS LHM'H EVHV KBIM'R QIUBMU. CB'L Z YYG MN HBM ZQSUB ZZAY
 	/V137
 	Guessing based on the .mp3 name of the third (current) morse code
 	404
@@ -596,4 +600,5 @@ PM us on IRC if you have anything to submit/correct
       * dsmndlckhrt
       * afischer15/fischer
       * hitops
+      * sortiecat
 VAULT-TEC CONFIDENTIAL
