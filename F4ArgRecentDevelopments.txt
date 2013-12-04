@@ -332,7 +332,7 @@ Note: at around 20:45 on Nov 24th, all subpages with accessible content went 404
 Known URLs:
 URL
 	Found by
-	Content
+	Status
 	Significance
 	/VT119
 	
@@ -546,7 +546,9 @@ Thu, 14 Nov 2013 20:00:00 GMT
 	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. We won’t make it?
 	TI-529c94d1b9e57.mp3
 Mon, 02 Dec 2013 14:10:25 GMT
-	Tenth Morse code on the front page
+	Tenth Morse code on the front page. Has since been removed
+
+
 	Active
 	Calling Black Row(?). On the site(?); ground is safe. Too late, level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
 	Broken-Harvard-Bridge-529e38ca8b92b.mp3
@@ -554,8 +556,12 @@ Tue, 03 Dec 2013 19:20:00 GMT
 *Approximate time
 	Eleventh Morse code on the front page
 	Active
-	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 [Vault Dweller/Visual Target Detected]; 02 [and/no]; 3 unknown humans 3 miles north-west. D/K-
-	The MP3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
+	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 (Vault Dweller/Visual Target Detected); 02 (and/no); 3 unknown humans 3 miles north-west. D/K-
+
+________________
+
+[Harvard Bridge connects Back Bay, Boston to Cambridge. It also carries Massachusetts Ave. across the river; the same avenue that holds Harvard University and MIT(the Institute)]
+	The mp3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
 ________________
 
 
@@ -587,7 +593,7 @@ Red Herrings (bad leads, ignore):
       * Cindy Tallent, Executive Vice President and Chief Financial Officer at ZeniMax has the 877-260-2299 number the site teased currently registered to her name. She has links to Bethesda’s marketing department, ‘Vir2l Media’ who would be behind this site if it is legit. It’s emphasised that the site owner, whoever that may be, had access to this number in order to shut it down after we had gained the code. This is all she will be relevant for as she will also be bound by an NDA, and as she is on the corporate side of the company, she might not actually know much about Fallout 4 at all other than finances and in-direct marketing.
       * Reddit user hotsnowbchyn posted a number of equations, that, when added up and put into a direct alphabet-to-number cypher, says: 
       * THIS IS THE OVERSEEVTF [sic] VAULT 137  REQESTING [sic] HELP VE [sic] ARE FREEZING AND RUNNING OUT OF FOOD
-      * vaultofthefuture.net doesn’t fit the art style of Fallout whatsoever, and the html is questionable. It links to the official twitter, yet not the official facebook? Fake.
+      * vaultofthefuture.net doesn’t fit the art style of Fallout whatsoever, and the html is questionable. It links to the official twitter, yet not the official facebook? Additionally, IRCers believe it is connected to Malware.
       * Most, if not all of the HAM radio transmissions have been concluded to be fake.
       * vault119.com is fake, as it was registered Nov 29 by namecheap.com
       * KID KEY is quite the far fetched stretch
