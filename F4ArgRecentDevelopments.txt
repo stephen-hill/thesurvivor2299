@@ -140,7 +140,13 @@ S
 
 
 
-	
+	Dec 4th 
+19:00 - New Morse code (Broken-Harvard-Bridge-2)
+        CLG BR CLG BR RPT DY SEV ON HVB PPL AR SCRD LST NGHT WE HRD STR NES FM TI ATM WE SE STR HUM DX Ø2 MIL N SMTH INT RGTH WID TH PL K
+* Translation consensus:
+Calling Black Row, Calling Black Row. Report: day seven, on Harvard Bridge. People are scared; last night we heard strange noises from The Institute. At the moment we see strange humans distance 2 miles north. Something isn't right with that place, over.
+
+
 Dec 3rd
 19:20 - New Morse code (Broken-Harvard-Bridge)
 CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D- or K]
@@ -673,7 +679,6 @@ Mon, 02 Dec 2013 14:10:25 GMT
 	Calling Black Row(?). On the site(?); ground is safe. Too late, level 4 breach. No survivors, 899 corpses. We are leaving Vault 119. Over, back to you.
 	Broken-Harvard-Bridge-529e38ca8b92b.mp3
 Tue, 03 Dec 2013 19:20:00 GMT
-*Approximate time
 	Eleventh Morse code on the front page
 	Active
 ________________
@@ -685,6 +690,13 @@ Current
 ________________
 
 [Harvard Bridge connects Back Bay, Boston to Cambridge. It also carries Massachusetts Ave. across the river; the same avenue that holds Harvard University and MIT(the Institute)]
+	Broken-Harvard-Bridge-2-529f7ac2ce9d7.mp3
+
+
+	Twelfth Morse on frontpage
+	Active
+Current
+	Calling Black Row, Calling Black Row. Report: day seven, on Harvard Bridge. People are scared; last night we heard strange noises from The Institute. At the moment we see strange humans distance 2 miles north. Something isn't right with that place, over.
 	The mp3 filename endings appear to be from PHP’s uniqid, which is the unix time in hex (5 digits are after the decimal)
 ________________
 

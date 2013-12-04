@@ -166,17 +166,15 @@ function SliderLaunch(id) {
 
 
 <div id="content">
-<span style="font-size: 40px; font-family: 'Monofonto';">KVNGR REV ALPHA PPS VT  PIZ UHMYLPVOQ CM XHWMZP. NBJB SPI'F BYQS QT D'Y BYFGEOB FI VQDYL MAQ. -NGQHT 5120-</span>
-<br>
 <span style="font-size: 40px; font-family: 'Monofonto';">Nuclear winter has come</span>
 
 
 
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="626423"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="622823"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
-<audio src="/radio/Broken-Harvard-Bridge-529e38ca8b92b.mp3" autoplay loop>
+<audio src="/radio/Broken-Harvard-Bridge-2-529f7ac2ce9d7.mp3" autoplay loop>
 
 
 
