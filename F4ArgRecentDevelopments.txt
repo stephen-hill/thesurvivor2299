@@ -19,7 +19,7 @@ General Info:
 * Fallout 4 News Twitter (run by IRC user ilusionz)
 * A wiki (in progress) organizing this Doc a little better
 * Google’s site map listing search
-* Neat Map of locations mentioned so far in the Arg by Zakerias, interactive google map
+* Map of locations mentioned so far in the Arg by Zakerias, new Interactive Google Map
 ________________
 
 
@@ -29,7 +29,7 @@ Chronology:
 * All times are in UTC/GMT (PST is -8, EST is -5).
 * Bolded times are “as near as facts as we can get.”
 * Italic times are speculation.
-* Dark blue is raw code, Italic light blue is the assumed translation
+* Grey is raw code, blue is the assumed translation. If there is disparity in translations...
    * Green are confirmed translations (should only be used for ciphers)
    * Orange text are possible words
    * Red text’s meanings are entirely unknown
@@ -161,6 +161,7 @@ CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS. BOSTON IS GONE
 19:32 - IRC user threedog_ points out the favicon, when opened as a text file, reads “V119-QR”. 
    * This may stand for Vault 119 - Quabbin Reservoir.
    * The favicon’s date modified is Nov 26th, 01:26
+   * The iOS favicon file also reads V119-QR
 
 
 Nov 26th
@@ -340,6 +341,7 @@ URL
 	Active
 	SY684> OVERRIDING PROTOCOL VT-15812 WITH KEY '7667'
 UNKNOWN ENEMY DETECTED
+________________
 
 
 Hidden Message:
@@ -556,6 +558,10 @@ Tue, 03 Dec 2013 19:20:00 GMT
 *Approximate time
 	Eleventh Morse code on the front page
 	Active
+________________
+
+
+Current
 	Calling Black Row. On the site. Reporting suspect activity near secured location The Institute. 1 (Vault Dweller/Visual Target Detected); 02 (and/no); 3 unknown humans 3 miles north-west. D/K-
 
 ________________
