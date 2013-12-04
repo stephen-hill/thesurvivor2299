@@ -15,6 +15,7 @@ Table of Contents
 General Info:
 * The Site
 * Short-URL to this Doc: http://goo.gl/Bg5Lpj
+* Doc of all plot messages, organized by Location
 * Archive of changes to the Site, Email Notifications
 * Fallout 4 News Twitter (run by IRC user ilusionz)
 * A wiki (in progress) organizing this Doc a little better
