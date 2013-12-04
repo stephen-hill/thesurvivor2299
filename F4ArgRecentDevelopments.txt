@@ -32,7 +32,7 @@ Chronology:
 * Dark blue is raw code, Italic light blue is the assumed translation
    * Green are confirmed translations (should only be used for ciphers)
    * Orange text are possible words
-   * Red text are unknown entirely
+   * Red text’s meanings are entirely unknown
 
 
 Dec 3rd
@@ -41,9 +41,9 @@ CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D or K]
 * Translation consensus: 
 CALLING BLACK ROW OUTSTATION. REPORTING SUSPICIOUS ACTIVITY NEAR SECURE LOCATION: THE INSTITUTE...
    * There are two current theories to the second half of the translation:
-   * 1 [VAULT DWELLER/VISUAL TARGET DETECTED] 02 --  NO WAIT 3 UNKNOWN HUMANS 03 MILES NORTH WEST D- guys help me write this translation
+   * ONE VISUAL THREAT DETECTED 2 --  NO [wait, I made a mistake], THREE UNKNOWN HUMANOIDS 3 MILES NORTHWEST, OVER
    * or, interpreting the first 02 N as “2 miles north”,
-   * 1 VAULT DWELLER 2 MILES NORTH; 3 UNKNOWN HUMANS 3 MILES NORTH WEST D-
+   * ONE VAULT DWELLER 2 MILES NORTH; THREE UNKNOWN HUMANS 3 MILES NORTHWEST, OVER
    * IRC user Reyz7 suggests that OTST could mean ‘outpost’
    * ‘D-’ could be a cut off transmission of ‘DX’ - distance or ‘DE’ - from, or a cutoff K - over.
    * IRC user Anorian pointed out that outstation is a term used in radio transmissions
@@ -537,13 +537,13 @@ Thu, 14 Nov 2013 20:00:00 GMT
 
 
 	Active
-	Calling all stations, this is Vault Overseer 119, anybody near Quabbin? SOS Vault door breach, repeat, SOS Vault door breach, enemy unknown, level 1, 2, and 3 gone, survivors on (service lift?) level 4
+	Calling all stations, this is Vault Overseer 119, anybody near Quabbin? SOS Vault door breach, repeat, SOS Vault door breach, enemy unknown, level 1, 2, and 3 gone, survivors in secure location on level 4
 	Unknown-3-7667.mp3
 Thu, 14 Nov 2013 20:00:00 GMT
 *Approximate time
 	Ninth Morse code on the front page. Has since been removed
 	Active
-	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. (We want Mark I? We won’t make it?)
+	Calling all stations, this is Vault 119, SOS, Level 4 is under attack, Overseer is dead, repeat, SOS, Level 4 is under attack, Overseer is dead. We won’t make it?
 	TI-529c94d1b9e57.mp3
 Mon, 02 Dec 2013 14:10:25 GMT
 	Tenth Morse code on the front page
