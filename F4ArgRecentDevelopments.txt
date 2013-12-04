@@ -35,6 +35,111 @@ Chronology:
    * Red text’s meanings are entirely unknown
 
 
+Jump to Date:
+November 2013
+S
+	M
+	T
+	W
+	T
+	F
+	S
+	
+
+	
+
+	
+
+	
+
+	
+
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+	11
+	12
+	13
+	14
+	15
+	16
+	17
+	18
+	19
+	20
+	21
+	22
+	23
+	24
+	25
+	26
+	27
+	28
+	29
+	30
+	
+
+
+
+	December 2013
+S
+	M
+	T
+	W
+	T
+	F
+	S
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+	11
+	12
+	13
+	14
+	15
+	16
+	17
+	18
+	19
+	20
+	21
+	22
+	23
+	24
+	25
+	26
+	27
+	28
+	29
+	30
+	31
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
 Dec 3rd
 19:20 - New Morse code (Broken-Harvard-Bridge)
 CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D- or K]
@@ -48,6 +153,7 @@ CALLING BLACK ROW OUTSTATION. REPORTING SUSPICIOUS ACTIVITY NEAR SECURE LOCATION
    * ‘D-’ could be a cut off transmission of ‘DX’ - distance or ‘DE’ - from, or a cutoff K - over.
    * IRC user Anorian pointed out that outstation is a term used in radio transmissions
    * OTST/Outstation could be a Morse term for outpost and we will address it as such
+
 
 
 Dec 2nd
@@ -84,6 +190,7 @@ CALLING BLACK ROW. OUTPOST; GROUND IS SAFE. TOO LATE, LEVEL 4 BREACH. NO SURVIVO
 CQ CQ CQ DE VT 119 SOS LVL4 UND ATTK OS IS DEAD II SOS LVL4 UND ATTK OS IS DEAD WE WNT MK I
    * Attempted translation:
 CALLING ALL STATIONS, THIS IS VAULT 119, SOS, LEVEL 4 IS UNDER ATTACK, OVERSEER IS DEAD, REPEAT, SOS, LEVEL 4 IS UNDER ATTACK, OVERSEER IS DEAD. WE WON’T MAKE IT.
+
 
 
 Dec 1st
@@ -134,8 +241,10 @@ THE INSTITUTE IS SEALED. THEY WON'T HELP US. I'M HEADING TO BLACK ROW. -NGQHT 51
 18:00 - Site goes down, possibly under load.
 
 
+
 Nov 28th-30th
 No updates, possibly because Zenimax’s offices are closed for the Thanksgiving holiday. The ARG may have been planned such that the final pre-Apocalypse message (Boston is gone. No hope.) would be sent shortly before Thanksgiving, so that the lack of activity during the week of Thanksgiving could be explained by the falling of the bombs.
+
 
 
 Nov 27th
@@ -164,6 +273,7 @@ CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS. BOSTON IS GONE
    * The iOS favicon file also reads V119-QR
 
 
+
 Nov 26th
 00:14 - http://thesurvivor2299.com/radio/ is now a 403, whereas previously it was simply an empty page.
 
@@ -184,6 +294,7 @@ CALLING ALL STATIONS, CALLING ALL STATIONS, CALLING ALL STATIONS, THIS IS VAULT 
    * Number 119 is the Boston radio code for Fire Detail
    * Number 119 could also refer to Vermont 119, a road that passes near Quabbin
    * (This is not the first message to end in a ‘K’, see Nov. 24th. Please don’t add again)
+
 
 
 
