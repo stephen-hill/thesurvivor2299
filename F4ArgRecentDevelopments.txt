@@ -274,6 +274,7 @@ The VGNR is believed to refer to it being a Vigenere cipher. CAP = Cipher Analyt
 Nov 22nd:
 15:30 - New cipher (Caesar) added to frontpage, translates to:
 
+
 MY DEAR SISTER. I’M HEADING TO THE INSTITUTE. GOD KNOWS WHAT HAPPENED TO THIS PLACE NOW. THIS OLD BASTARD WILL HELP US. HE MUST HELP US. –0321–
 
 
@@ -313,10 +314,12 @@ ________________
 
 
 
+
 Unsolved Riddles:
 Ciphers & Codes:
       * Nothing right now...
 Loose Ends:
+      * Dec 1 - 20:35  - Who/what is “-NGQHT 5120-”?
       * Nov 24 - 20:00 - “ONE” and “SIX”
       * Nov 24 - 17:10 - “2510730 PLEASE STAND BY” (may have just meant we had to wait for the 20:44 morse code)
       * Nov 23 - 23:48 - The meaning of “19.04” (could possibly branch off from the LLUB riddle)
@@ -328,6 +331,8 @@ Loose Ends:
 
 ________________
 Note: at around 20:45 on Nov 24th, all subpages with accessible content went 404 (excluding mp3s)
+
+
 
 
 Known URLs:
@@ -454,6 +459,7 @@ An empty page means that the directory is there, but someone created an empty �
 If you find any other errors, look here. 
 
 
+
 Known MP3s
 Note: Since thesurvivor2299.com often removes old mp3’s, these links are to a mirror site, owned by Padd00o
 URL
@@ -573,7 +579,9 @@ ________________
 
 
 
+
 Useful Links:
+      * Code Breaking: A variety of tools
 Morse Code:
       * Common Morse Code Abbreviations: https://en.wikipedia.org/wiki/Morse_code_abbreviations
       * Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
@@ -593,6 +601,7 @@ ________________
 
 
 
+
 Red Herrings (bad leads, ignore):
       * Piotr Ostrowski: Some poor guy who may have worked with Bethesda in the past. The name came from an email address vaguely related to the site, and he was found hosting Fallout and Skyrim DLCs on a Polish torrent website. A witch hunt ensued, resulting in him deleting everything with his name on it (G+, etc), and now Reddit won’t leave him alone.
       * Erik Todd Dellums: The voice actor for Three Dog. Has stated he’s “just a fan”, and doesn’t know any more than we do. He’s maintained a Twitter account broadcasting daily Fallout themed music for a year. It is encouraged not to pester Erik as even if he did know something, he is bound to a Non Disclosure Agreement with legal repercussions if broken, he won’t break it just because some fanboy on the internet asked nicely. Just like to point to my post about ETD, covering his antics the past few months
@@ -604,6 +613,8 @@ Red Herrings (bad leads, ignore):
       * vault119.com is fake, as it was registered Nov 29 by namecheap.com
       * KID KEY is quite the far fetched stretch
 ________________
+
+
 
 
 
@@ -626,12 +637,13 @@ ________________
 
 
 
-Screen Caps
 
+Screen Caps
 
 /VT119/
 
 /VT119/ hidden message
+
 
 
 Editors:
