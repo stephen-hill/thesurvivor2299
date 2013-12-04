@@ -567,6 +567,7 @@ Morse Code:
       * Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
       * Slow Morse code decoder for Windows: http://www.dxsoft.com/en/products/cwget/
       * Fast Morse code decoder for iPhone: https://itunes.apple.com/us/app/morse-it/id284942940?mt=8
+      * Morse Code Reader for Android: https://play.google.com/store/apps/details?id=org.jfedor.morsecode&hl=en
 Ciphers & Codes:
       * Text Cipher Encoder/Decoder: http://rumkin.com/tools/cipher/
       * Multipurpose Encoder/Decoder http://cryptii.com/text/decimal
