@@ -19,7 +19,7 @@ General Info:
 * Fallout 4 News Twitter (run by IRC user ilusionz)
 * A wiki (in progress) organizing this Doc a little better
 * Google’s site map listing search
-* Neat Map of locations mentioned so far in the Arg by Zakerias
+* Neat Map of locations mentioned so far in the Arg by Zakerias, interactive google map
 ________________
 
 
@@ -37,7 +37,7 @@ Chronology:
 
 Dec 3rd
 19:20 - New Morse code (Broken-Harvard-Bridge)
-CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D or K]
+CLG BR OTST RPT SUSP ACT NER SL TI 1 VTD 02 N 3 UNWN HUM 03 MIL NW [D- or K]
 * Translation consensus: 
 CALLING BLACK ROW OUTSTATION. REPORTING SUSPICIOUS ACTIVITY NEAR SECURE LOCATION: THE INSTITUTE...
    * There are two current theories to the second half of the translation:
@@ -114,7 +114,7 @@ THE INSTITUTE IS SEALED. THEY WON'T HELP US. I'M HEADING TO BLACK ROW. -NGQHT 51
    * It’s a reversed (REV ALPHA) keyed Vigénere cipher (KVNGR), using passphrase “VAULT TEC” (PPS VT)
    * It is still unclear what -TBNLS 5120-  is-possibly a sign off.
    * This is the first time “Vault Tec” has been mentioned in the ARG.
-   * “Black Row” may refer to Merchant’s Row, a section of Cambridge, MA that is located close to MIT.
+   * “Black Row” may refer to Merchant’s Row, which is is in Boston
 
 
 20:24 - The timer has been fixed. Set to expire in 11 minutes.
@@ -632,4 +632,5 @@ PM us on IRC if you have anything to submit/correct
          * afischer15/fischer
          * hitops
          * sortiecat
+         * Chazzen01
 VAULT-TEC CONFIDENTIAL
