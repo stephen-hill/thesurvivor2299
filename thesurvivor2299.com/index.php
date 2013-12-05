@@ -171,7 +171,7 @@ UJY'H VOSC FW SFP'GS POCVK KYVI L UWX IVYGLV. XZAG YU,  DHNY PJFF CCZ! ZM'K NZHP
 NAWLV OSS HEJB RGO TVXS HBVD?</span>
 
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="608424"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="604824"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
 <audio src="/radio/Broken-Harvard-Bridge-2-529f7ac2ce9d7.mp3" autoplay loop>
