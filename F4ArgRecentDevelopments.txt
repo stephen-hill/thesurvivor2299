@@ -144,14 +144,15 @@ S
 
 	
 Dec 5th 
-21:10 - Cipher modified slightly, adding the {}’s
+21:10 - Ciphertext modified slightly, adding the {}’s
         AK: {REV _____ 5120} [CPS] PASS {LOC BB YEAR LET} - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE. MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM. |
 * AK (Alphabet Key) = THQGN (which is undeciphered callsign from Dec 1 - 20:35, written in REVerse)
 * PASS (Passphrase) = ONENINEFOURSEVEN (the LETters of the YEAR the Berkely Building was built)
+* Plaintext:
 I AM SORRY TO INFORM YOU, BUT I'M AFRAID THEY'RE DEAD. YOUR LIFE SUPPORT SYSTEM IS JUST FINE. WELCOME TO THE INSTITUTE. THE ONLY SAFE PLACE TO BE IN THIS WORLD.
 
 
-20:00 - New Cipher (frontpage) - Modified at 21:10 to be slightly more clear
+20:00 - New Ciphertext (frontpage) - Modified at 21:10 to be slightly more clear
  
 19:04 - New Morse (frontpage)
         CLG BR EMRG IS OVR WE AR OTNB WT AMO STH ATK CMP WA DD N WY OU ALL UNT CD 512Ø EVAC Z Y X YUR NXT
@@ -162,7 +163,7 @@ CALLING BLACK ROW, [“EMERGENCY IS OVER,” or “EMERGENCY! IT’S OVER.”] W
 
 
 Dec 4th 
-20:00 - New cipher (frontpage)
+20:00 - New ciphertext (frontpage)
         ZYX 5625478+7878 - HVCD AYX XOTF LFG IVL EGIBDYU CD RZWVI?
 UJY'H VOSC FW SFP'GS POCVK KYVI L UWX IVYGLV. XZAG YU,  DHNY PJFF CCZ! ZM'K NZHP HQ QV.
 NAWLV OSS HEJB RGO TVXS HBVD?
