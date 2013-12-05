@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +11,6 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="/assets/js/bbe160d01998eaa70d6b42091f1a10bd66.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/assets/css/6326c898e08243230d8e2bce25db212dbd.css">
-
 <script type='text/JavaScript'>
 function cookieCheck() {
 	var getcookies = document.cookie;
@@ -36,10 +34,10 @@ function cookieCheck() {
 				eraseCookie('age_check_referrer');
 				location.replace(referrer);
 			} else {
-				location.replace("country.html");
+				location.replace("/assets/html/country.html");
 			}
 		} else {
-			location.replace("noentry.html");
+			location.replace("/assets/html/noentry.html");
 		}
 	}
 }
@@ -70,6 +68,7 @@ function my_setCookie(nam, val, expire, domain, path) {
 	cookie_str += "; expires=" + expire.toGMTString();
 	document.cookie = cookie_str;
 };
+
 function setCookie() {
 	var user_age = new Date();
 	user_age.setMonth(document.agevalidate.agemon.options[document.agevalidate.agemon.selectedIndex].value-1);
@@ -132,7 +131,6 @@ function SliderLaunch(id) {
 
 </script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-16888428-1']);
   _gaq.push(['_trackPageview']);
@@ -142,7 +140,6 @@ function SliderLaunch(id) {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 <script type="text/javascript">
             $(document).ready(function(){
@@ -159,18 +156,16 @@ function SliderLaunch(id) {
                     addClass	: ''
                 });
             });
-        </script>
-
+</script>
 </head>
+
 <body style="background-color: black;">
-
-
 <div id="content">
-<span style="font-size: 40px; font-family: 'Monofonto';">REV _____ 5120 [CPS] LOC BB YEAR LET - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.
+<span style="font-size: 40px; font-family: 'Monofonto';">AK: {REV _____ 5120} [CPS] PASS {LOC BB YEAR LET} - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.
 GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE.
 MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM.  |</span>
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="532828"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="529228"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
 <audio src="/radio/Broken-Harvard-Bridge-3-52a0cd2479d9e.mp3" autoplay loop>
@@ -188,7 +183,5 @@ var google_conversion_value = 0;
 var google_remarketing_only = false;
 /* ]]> */
 </script>
-
-
 </body>
 </html>
