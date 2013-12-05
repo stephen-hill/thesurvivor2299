@@ -563,10 +563,6 @@ ________________
 
 
 An index file was recently added.
-	?See
-	Google searching site:thesurvivor2299.com
-	Query
-	‘?’ is an HTML URL query operator
 	stream.
 	
 
