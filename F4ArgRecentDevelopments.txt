@@ -143,6 +143,15 @@ S
 
 
 	
+Dec 5th 
+19:04 - New Morse (frontpage)
+        CLG BR EMRG IS OVR WE AR OTNB WT AMO STH ATK CMP WA DD N WY OU ALL UNT CD 512Ø EVAC Z Y X YUR NXT
+CALLING BLACK ROW, EMERGENCY IS OVER, WE ARE [(ON THE NORTH BRIDGE) or (OUTNUMBERED)] WITHOUT AMMO, SOMETHING ATTACKED CAMP. WE ARE DOOMED, NO WAY OUT, ALL UNITS CONFIRMED DEAD. 5120: EVACUATE. Z Y X, YOU’RE NEXT
+* 5120 is likely referring to -TBNLS 5120- from an earlier cipher
+* ZYX may be reffering to Dec 4th’s cipher? Unsure how, since thats a conversation.
+
+
+
 Dec 4th 
 20:00 - New cipher (frontpage)
         ZYX 5625478+7878 - HVCD AYX XOTF LFG IVL EGIBDYU CD RZWVI?
