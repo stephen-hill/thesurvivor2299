@@ -166,8 +166,11 @@ function SliderLaunch(id) {
 
 
 <div id="content">
+<span style="font-size: 40px; font-family: 'Monofonto';">REV _____ 5120 [CPS] LOC BB YEAR LET - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.
+GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE.
+MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM.  |</span>
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="536429"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="532828"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
 <audio src="/radio/Broken-Harvard-Bridge-3-52a0cd2479d9e.mp3" autoplay loop>
