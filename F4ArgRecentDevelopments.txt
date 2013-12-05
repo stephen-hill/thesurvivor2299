@@ -742,7 +742,7 @@ Red Herrings (bad leads, ignore):
          * Most, if not all of the HAM radio transmissions have been concluded to be fake.
          * vault119.com is fake, as it was registered Nov 29 by namecheap.com
          * KID KEY is quite the far fetched stretch
-         * ThePropheteer appears to be totally unrelated
+         * ThePropheteer appears to be unrelated
 ________________
 
 
