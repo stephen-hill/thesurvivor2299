@@ -742,25 +742,24 @@ Red Herrings (bad leads, ignore):
          * Most, if not all of the HAM radio transmissions have been concluded to be fake.
          * vault119.com is fake, as it was registered Nov 29 by namecheap.com
          * KID KEY is quite the far fetched stretch
+         * ThePropheteer appears to be totally unrelated
 ________________
 
 
 
 
-
-
 IRC Basics:
-         * Please ctrl-f through this Doc before asking questions/offering additions about the arg!
-         * IRC Channels: 
-         * ##fallout4hype - General
-         * #fallout4arg - Serious Codebreaking Please keep all discussion here on-topic!
-         * #fallout4discussion - Possible Game Features, Plot, Setting, and Characters Discussion:
-         * To join a channel, type “/join #channelname”. You can be in several at once.
-         * Some clients let you click on #channel links to join them
-         * Please be respectful of the topic of the channel.
-         * To open a private message with someone, type “/query Username”
-         * Some clients allow you to click (right click?) their name
-         * You will need some type of IRC client - freenode has one online.
+            * Please ctrl-f through this Doc before asking questions/offering additions about the arg!
+            * IRC Channels: 
+            * ##fallout4hype - General
+            * #fallout4arg - Serious Codebreaking Please keep all discussion here on-topic!
+            * #fallout4discussion - Possible Game Features, Plot, Setting, and Characters Discussion:
+            * To join a channel, type “/join #channelname”. You can be in several at once.
+            * Some clients let you click on #channel links to join them
+            * Please be respectful of the topic of the channel.
+            * To open a private message with someone, type “/query Username”
+            * Some clients allow you to click (right click?) their name
+            * You will need some type of IRC client - freenode has one online.
 
 ________________
 
@@ -834,14 +833,14 @@ Front Page after end of 1st Countdown
 
 Editors:
 PM us on IRC if you have anything to submit/correct
-            * Nebual
-            * VaultOfDaedalus - Robert
-            * acidx - Leandro
-            * MDirt - Emm Dirt
-            * abermuffin - Dan
-            * dsmndlckhrt
-            * afischer15/fischer
-            * hitops
-            * sortiecat
-            * Chazzen01
+               * Nebual
+               * VaultOfDaedalus - Robert
+               * acidx - Leandro
+               * MDirt - Emm Dirt
+               * abermuffin - Dan
+               * dsmndlckhrt
+               * afischer15/fischer
+               * hitops
+               * sortiecat
+               * Chazzen01
 VAULT-TEC CONFIDENTIAL
