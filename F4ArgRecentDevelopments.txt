@@ -144,6 +144,7 @@ S
 
 	
 Dec 5th 
+21:11 - favicon.ico changed from “V119-QR” to read “EJYOBA 75”, meaning unknown
 21:10 - Ciphertext modified slightly, adding the {}’s
         AK: {REV _____ 5120} [CPS] PASS {LOC BB YEAR LET} - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE. MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM. |
 * AK (Alphabet Key) = THQGN (which is undeciphered callsign from Dec 1 - 20:35, written in REVerse)
@@ -469,13 +470,11 @@ Unsolved Riddles:
 Ciphers & Codes:
          * Nothing right now...
 Loose Ends:
-         * Dec 1 - 20:35  - Who/what is “-NGQHT 5120-”?
          * Nov 24 - 20:00 - “ONE” and “SIX”
          * Nov 24 - 17:10 - “2510730 PLEASE STAND BY” (may have just meant we had to wait for the 20:44 morse code)
          * Nov 23 - 23:48 - The meaning of “19.04” (could possibly branch off from the LLUB riddle)
          * Nov 22 - 15:30 - Who “–0321–” is (an Android??) 
          * Nov 22 - 12:45 - No use yet for the Overseer (15334) number
-         * Nov 22 - /V137 found by guessing based on the .mp3 name of the third (current) morse code
          * Dates: 11/25, 12/1, 12/11, 12/27
 
 
@@ -493,7 +492,7 @@ URL
 	/VT119
 	
 
-	Active
+	404
 	SY684> OVERRIDING PROTOCOL VT-15812 WITH KEY '7667'
 UNKNOWN ENEMY DETECTED
 ________________
