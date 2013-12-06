@@ -145,6 +145,7 @@ S
 	
 Dec 5th 
 21:11 - favicon.ico changed from “V119-QR” to read “EJYOBA 75”, meaning unknown
+* Apple-Touch-Icon.png still displays the text string “V119-QR”
 21:10 - Ciphertext modified slightly, adding the {}’s
         AK: {REV _____ 5120} [CPS] PASS {LOC BB YEAR LET} - | H EY XHWHD OF GXSIHS EVE, ZFR G'K ATGEVY ROCL'JM QEOX.GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE. MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM. |
 * AK (Alphabet Key) = THQGN (which is undeciphered callsign from Dec 1 - 20:35, written in REVerse)
