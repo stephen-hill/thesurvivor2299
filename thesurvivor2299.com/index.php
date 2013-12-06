@@ -165,7 +165,7 @@ function SliderLaunch(id) {
 GTJX ZSFF QRETYHA HWEUHG WG VKKP HHWE.
 MCCCZNU SQ UUE VMXECEDCZ. MFE BNMC NEGE QLZCR TP MZ MR YUOG ACBSM.  |</span>
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="514766"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="511231"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
 <audio src="/radio/Broken-Harvard-Bridge-3-52a0cd2479d9e.mp3" autoplay loop>
