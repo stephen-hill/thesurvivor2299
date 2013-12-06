@@ -161,11 +161,16 @@ function SliderLaunch(id) {
 
 <body style="background-color: black;">
 <div id="content">
+<span style="font-size: 40px; font-family: 'Monofonto';">REV 
+3120 PAB
+UNAT BA XVQ, VG'F ABG BIRE LRG
+VG YBBXF ONQ
+XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE<span>
 <div id="top"></div>
-<div id="vid-count"> <span class="vid-count" data-seconds="446436"></span></div>
+<div id="vid-count"> <span class="vid-count" data-seconds="442830"></span></div>
 <div id="footer"><div class="vt-counterfooter"><img src="/assets/static/dccb3cd66b8405cf10e6a937eb8b23bfa9.png"></div></div>
 </div>
-<audio src="/radio/Broken-Harvard-Bridge-3-52a0cd2479d9e.mp3" autoplay loop>
+<audio src="/radio/Blacksite-0.mp3" autoplay loop>
 
 
 

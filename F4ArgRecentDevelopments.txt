@@ -161,6 +161,16 @@ S
 
 
 	
+Dec 6th
+21:45 - Site updated!
+* New cyphertext: REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG VG YBBXF ONQ XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
+   * Reversing and decoding with ROT13 yields: HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
+   * Usage for 3120 unknown. 
+* New morse code, which decoded yields: CQ CQ CQ BR AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250
+   * Possible translation: Calling all stations, calling all stations, calling all stations. Break. Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  Attentional all. Emergency Message. We are under attack. Frequency 2250.
+
+
+
 Dec 5th 
 21:11 - favicon.ico changed from “V119-QR” to read “EJYOBA 75”, meaning unknown
 * Apple-Touch-Icon.png still displays the text string “V119-QR”
