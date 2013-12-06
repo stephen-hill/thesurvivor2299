@@ -162,12 +162,19 @@ S
 
 	
 Dec 6th
+22:10 - Site says “PLEASE STAND BY” in clear text instead of the 21:45 cyphertext.
+22:00 - New morse code. Decodes to PSE AS (Please stand by).
 21:45 - Site updated!
 * New cyphertext: REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG VG YBBXF ONQ XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
-   * Reversing and decoding with ROT13 yields: HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
+   * Reversing and decoding with ROT13 yields: CNO(?) HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
+   * There are linebreaks in the cypher, which might indicate this is a conversation between two people (likely Desmond and The Survivor):
+      * Person 1: Hang on, Kid, it’s not over yet
+      * Person 2: It looks bad
+      * Person 1: Keep them busy. I’ll get him to the shelter
    * Usage for 3120 unknown. 
+   * Meaning of “CNO” (or “PAB” if it should be left as is from the cyphertext) unknown.
 * New morse code, which decoded yields: CQ CQ CQ BR AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250
-   * Possible translation: Calling all stations, calling all stations, calling all stations. Break. Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  Attentional all. Emergency Message. We are under attack. Frequency 2250.
+   * Possible translation: Calling all stations, calling all stations, calling all stations. Break. Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  Attention all. Emergency Message. We are under attack. Frequency 2250.
 
 
 
