@@ -5,10 +5,10 @@ ________________
 
 
 Table of Contents
+* ARG Tools/Useful Links
 * Chronology
 * Unsolved Riddles
 * Known URLs
-* ARG Tools/Useful Links
 * Red Herrings
 * IRC Guide & Commands
 
@@ -19,13 +19,31 @@ General Info:
 * Doc of all plot messages, organized by Location
 * Archive of changes to the Site, Email Notifications
 * Fallout 4 News Twitter (run by IRC user ilusionz)
-* A wiki (in progress) organizing this Doc a little better
 * Google’s site map listing search
 * Map of locations mentioned so far in the Arg by Zakerias, new Interactive Google Map
 * IRC user rca_ has made a map showing the subway stations of the area
 ________________
 
 
+
+Useful Links:
+* Code Breaking: A variety of tools
+Morse Code:
+* Common Morse Code Abbreviations: https://en.wikipedia.org/wiki/Morse_code_abbreviations
+* Morse Code Prosigns: https://en.wikipedia.org/wiki/Prosigns_for_Morse_code
+* Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
+* Slow Morse code decoder for Windows: http://www.dxsoft.com/en/products/cwget/
+* Fast Morse code decoder for iPhone: https://itunes.apple.com/us/app/morse-it/id284942940?mt=8
+* Morse Code Reader for Android: https://play.google.com/store/apps/details?id=org.jfedor.morsecode&hl=en
+Ciphers & Codes:
+* Text Cipher Encoder/Decoder: http://rumkin.com/tools/cipher/
+* Multipurpose Encoder/Decoder http://cryptii.com/text/decimal
+* Phone Number to Text Encoder/Decoder http://www.dialabc.com/words/search/
+* Mathematical Significance of Numbers: http://www.numberempire.com/
+* Text Decoder (base 2,4,6,ASCII): http://home.paulschou.net/tools/xlate/
+Web Codes & Errors:
+* Common Status/Error codes: http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+________________
 
 
 Chronology:
@@ -736,28 +754,6 @@ ________________
 
 
 
-Useful Links:
-         * Code Breaking: A variety of tools
-Morse Code:
-         * Common Morse Code Abbreviations: https://en.wikipedia.org/wiki/Morse_code_abbreviations
-         * Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
-         * Slow Morse code decoder for Windows: http://www.dxsoft.com/en/products/cwget/
-         * Fast Morse code decoder for iPhone: https://itunes.apple.com/us/app/morse-it/id284942940?mt=8
-         * Morse Code Reader for Android: https://play.google.com/store/apps/details?id=org.jfedor.morsecode&hl=en
-Ciphers & Codes:
-         * Text Cipher Encoder/Decoder: http://rumkin.com/tools/cipher/
-         * Multipurpose Encoder/Decoder http://cryptii.com/text/decimal
-         * Phone Number to Text Encoder/Decoder http://www.dialabc.com/words/search/
-         * Mathematical Significance of Numbers: http://www.numberempire.com/
-         * Text Decoder (base 2,4,6,ASCII): http://home.paulschou.net/tools/xlate/
-Web Codes & Errors:
-         * Common Status/Error codes: http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-________________
-
-
-
-
-
 Red Herrings (bad leads, ignore):
          * Piotr Ostrowski: Some poor guy who may have worked with Bethesda in the past. The name came from an email address vaguely related to the site, and he was found hosting Fallout and Skyrim DLCs on a Polish torrent website. A witch hunt ensued, resulting in him deleting everything with his name on it (G+, etc), and now Reddit won’t leave him alone.
          * Erik Todd Dellums: The voice actor for Three Dog. Has stated he’s “just a fan”, and doesn’t know any more than we do. He’s maintained a Twitter account broadcasting daily Fallout themed music for a year. It is encouraged not to pester Erik as even if he did know something, he is bound to a Non Disclosure Agreement with legal repercussions if broken, he won’t break it just because some fanboy on the internet asked nicely. Just like to point to my post about ETD, covering his antics the past few months
@@ -793,61 +789,20 @@ ________________
 
 
 
+
+
+
+
+
+
+
+
+
+
 Screen Caps
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+               * Google Doc with links to additional Screen Captures (maintained by IRC user superstarrstef)
 
 Front Page after end of 1st Countdown        
 
