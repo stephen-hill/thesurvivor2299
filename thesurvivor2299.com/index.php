@@ -3,6 +3,7 @@
 <head>
   <meta http-equiv=Content-type content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=7, IE=9">
+	<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
     <meta name="description" content="12.11.13">
      <meta name="keywords" content="The Survivor, 2299">
 	 
@@ -16,10 +17,10 @@
 <body style="background-color: black;">
 
 <div id="content">
-<span style="font-size: 40px; font-family: &apos;Monofonto&apos;; position: relative; top:-200px;">THAT'S IT TUNNEL SNAKES<span>
-<iframe width="420" height="315" src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<span style="font-size: 40px; font-family: 'Monofonto'; position: relative; top:-200px;">THAT'S IT TUNNEL SNAKES<span>
+<iframe width="420" height="315" src="//www.youtube.com/embed/S0ximxe4XtU" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<span style="font-family: 'Monofonto'; font-size:30px; position: relative; top:300px">Special thanks to /r/Fallout the most amazing community on reddit.</span>
 
 
 <script type="text/javascript">

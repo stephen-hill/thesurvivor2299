@@ -25,27 +25,6 @@ General Info:
 ________________
 
 
-
-Useful Links:
-* Code Breaking: A variety of tools
-Morse Code:
-* Common Morse Code Abbreviations: https://en.wikipedia.org/wiki/Morse_code_abbreviations
-* Morse Code Prosigns: https://en.wikipedia.org/wiki/Prosigns_for_Morse_code
-* Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
-* Slow Morse code decoder for Windows: http://www.dxsoft.com/en/products/cwget/
-* Fast Morse code decoder for iPhone: https://itunes.apple.com/us/app/morse-it/id284942940?mt=8
-* Morse Code Reader for Android: https://play.google.com/store/apps/details?id=org.jfedor.morsecode&hl=en
-Ciphers & Codes:
-* Text Cipher Encoder/Decoder: http://rumkin.com/tools/cipher/
-* Multipurpose Encoder/Decoder http://cryptii.com/text/decimal
-* Phone Number to Text Encoder/Decoder http://www.dialabc.com/words/search/
-* Mathematical Significance of Numbers: http://www.numberempire.com/
-* Text Decoder (base 2,4,6,ASCII): http://home.paulschou.net/tools/xlate/
-Web Codes & Errors:
-* Common Status/Error codes: http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-________________
-
-
 Chronology:
 November 2013
 S
@@ -157,6 +136,14 @@ S
    * Dark blue are confirmed translations (should only be used for ciphers)
    * Orange text are possible words
    * Red text’s meanings are entirely unknown
+Dec 7th
+03:00 - Welp, thats all folks! The site has officially outed itself.
+        Its been a pleasure serving with you gentlemen, hope to see you all again for the real Arg! Was a lot of fun organizing the investigation! -- Nebual
+        [other Doc editors can sign off here]
+
+
+
+
 
 Dec 6th
 22:20 - Bethesda tweets “PSA: If you don’t hear it through an official channel like this, assume all rumors and speculation are false.” IRC has mixed feelings.
@@ -777,6 +764,24 @@ ________________
 ________________
 
 
+
+Useful Links:
+         * Code Breaking: A variety of tools
+Morse Code:
+         * Common Morse Code Abbreviations: https://en.wikipedia.org/wiki/Morse_code_abbreviations
+         * Morse Code Prosigns: https://en.wikipedia.org/wiki/Prosigns_for_Morse_code
+         * Fast MP3 Morse Code decoder, by ricodued http://blackratsoftware.com/falloutmorsedecoder_0.2.zip
+         * Slow Morse code decoder for Windows: http://www.dxsoft.com/en/products/cwget/
+         * Fast Morse code decoder for iPhone: https://itunes.apple.com/us/app/morse-it/id284942940?mt=8
+         * Morse Code Reader for Android: https://play.google.com/store/apps/details?id=org.jfedor.morsecode&hl=en
+Ciphers & Codes:
+         * Text Cipher Encoder/Decoder: http://rumkin.com/tools/cipher/
+         * Multipurpose Encoder/Decoder http://cryptii.com/text/decimal
+         * Phone Number to Text Encoder/Decoder http://www.dialabc.com/words/search/
+         * Mathematical Significance of Numbers: http://www.numberempire.com/
+         * Text Decoder (base 2,4,6,ASCII): http://home.paulschou.net/tools/xlate/
+Web Codes & Errors:
+         * Common Status/Error codes: http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
 
 
