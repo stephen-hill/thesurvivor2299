@@ -162,14 +162,20 @@ S
 
 	
 Dec 6th
-22:10 - Site nosays “PLEASE STAND BY” in clear text instead of the 21:45 cyphertext.
-22:00 - New morse code. Decodes to PSE AS (Please stand by).
+22:02 - New morse code:
+PSE AS
+Please stand by
+22:00 - Cipher removed, now just says “PLEASE STAND BY” in clear text
 21:45 - Site updated!
 * New cyphertext: 
-REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG VG YBBXF ONQ XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
+REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG 
+VG YBBXF ONQ 
+XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
    * Reversing and decoding with ROT13 yields: 
-CNO(?) HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
-   * There are linebreaks in the cypher, which might indicate this is a conversation between two people (likely Desmond and The Survivor):
+CNO(?) HANG ON KID, IT'S NOT OVER YET 
+IT LOOKS BAD 
+KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
+   * The linebreaks in the original ciphertext might indicate this is a conversation between two people (likely Desmond and The Survivor):
       * Person 1: Hang on, Kid, it’s not over yet
       * Person 2: It looks bad
       * Person 1: Keep them busy. I’ll get him to the shelter
