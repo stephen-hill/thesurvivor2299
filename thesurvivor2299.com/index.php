@@ -15,7 +15,9 @@
 <div id="content">
 <span style="font-family: 'Monofonto'; font-size:40px; position: relative; top:-10px">THAT'S ALL FOLKS</span>
 <center><iframe width="420" height="215" src="//www.youtube.com/embed/-EQ6eHeBrhM" frameborder="0" allowfullscreen></iframe></center>
-<span style="font-family: 'Monofonto'; font-size:15px; position: relative; top:10px">Special thanks to /r/Fallout the most amazing community on reddit for resolving all clues.  PSA:  YT User 'Elevated Level', Butch, Pitor,  Liam Neeson and creator of tunnelsnakesrule.com are  not responsible for this 'hoax/rickroll'.<a href="http://thesurvivor2299.com/fuckyou.php">PPS To real haters: if you  really wish me dead IRL, go here </a>.</span>
+<span style="font-family: 'Monofonto'; font-size:15px; position: relative; top:10px">Special thanks to /r/Fallout the most amazing community on reddit for resolving all clues.  PSA:  YT User 'Elevated Level', Butch, Pitor,  Liam Neeson and creator of tunnelsnakesrule.com are  not responsible for this 'hoax/rickroll'.<a href="http://thesurvivor2299.com/fuckyou.php">PPS To real haters: if you  really wish me dead IRL, go there </a>.</span>
+<br>
+<span style="font-family: 'Monofonto'; font-size:20px; position: relative; top:30px; text-align: center;"><a href="mailto:iamreallyupset@gmail.com">iamreallyupset@gmail.com</a></span>
 </div>
 </body>
 </html>
