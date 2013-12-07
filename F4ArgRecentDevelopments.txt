@@ -3,6 +3,14 @@ Recent Developments
 ________________
 
 
+December 7 0300 UTC - As many of you already know, thesurvivor2299.com has now officially been revealed to be a hoax. It has been an absolute pleasure to have worked on this project with all of you, even if it did end in disappointment. I will always fondly remember the time spent on IRC trying to break codes and postulating as to what it all means; I hope you will as well. I wish all of you a happy, safe, and productive life. On behalf of Nebual, sortiecat, VaultofDaedalus, acidx, SixthArmySod, Kanade, Nerval, Water48, Chazzen01, myself, and all of the other OPs, good night and good luck. And remember-- tick tick tickity means run your ass out of there, and pop some rad away for good measure ;)
+Your friendly neighborhood Overseer,
+hitops
+
+
+________________
+
+
 
 Table of Contents
 * ARG Tools/Useful Links
@@ -129,7 +137,7 @@ S
 
 
 
-	* All times are in UTC/GMT (PST is -8, EST is -5).         Current UTC Time
+	* All times are in UTC/GMT (PST is -8, EST is -5).                         Current UTC Time
 * Bolded times are “as near as facts as we can get.”
 * Italic times are speculation.
 * Grey is raw code, blue is the assumed translation. If there is disparity in translations...
@@ -138,8 +146,11 @@ S
    * Red text’s meanings are entirely unknown
 Dec 7th
 03:00 - Welp, thats all folks! The site has officially outed itself.
-        Its been a pleasure serving with you gentlemen, hope to see you all again for the real Arg! Was a lot of fun organizing the investigation! -- Nebual
-        [other Doc editors can sign off here]
+* Its been a pleasure serving with you gentlemen, hope to see you all again for the real Arg! Was a lot of fun organizing the investigation! —Nebual
+* It's been great, guys. I'm really going to miss all the speculation and arguments we had over the miniscule ciphers and morse codes. I hope to see you all in #thewastes -SixthArmySod
+* Augh fuck. I’ll miss all you guys. It’s honestly been a pleasure working with all of you to solve this arg. I invite all of you to join us on reddit and IRC #thewastes to hangout and vent. I know i’ll be there. —Fischer
+* “Hopefully tunnel snakes one day come to MIT. Get hoaxed once, but don’t get hoaxed again!” - Nerval
+* "Only Fennec Foxes can cure this pain" - Ivan
 
 
 

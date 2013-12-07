@@ -8,31 +8,14 @@
      <meta name="keywords" content="The Survivor, 2299">
 	 
 <title>2299</title>
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="/assets/js/bbe160d01998eaa70d6b42091f1a10bd66.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/assets/css/6326c898e08243230d8e2bce25db212dbd.css">
 </head>
 
 <body style="background-color: black;">
-
 <div id="content">
-<span style="font-size: 40px; font-family: 'Monofonto'; position: relative; top:-200px;">THAT'S IT TUNNEL SNAKES<span>
-<iframe width="420" height="315" src="//www.youtube.com/embed/S0ximxe4XtU" frameborder="0" allowfullscreen></iframe>
+<span style="font-family: 'Monofonto'; font-size:40px; position: relative; top:-10px">THAT'S ALL FOLKS</span>
+<center><iframe width="420" height="215" src="//www.youtube.com/embed/-EQ6eHeBrhM" frameborder="0" allowfullscreen></iframe></center>
+<span style="font-family: 'Monofonto'; font-size:15px; position: relative; top:10px">Special thanks to /r/Fallout the most amazing community on reddit.  PSA:  YT User 'Elevated Level', Butch, Pitor,  Liam Neeson and creator of tunnelsnakesrule.com are  not responsible for this 'hoax/rickroll'. Ah, and thepropheteer.com is a fake too (Still thumbs up for this guy it looks great!).  Don't hate bethesda, hate me. That's all. I really hope you'll get a real Fallout 4 soon, guys.</span>
 </div>
-<span style="font-family: 'Monofonto'; font-size:30px; position: relative; top:300px">Special thanks to /r/Fallout the most amazing community on reddit.</span>
-
-
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 977315428;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "DXB3CITvxQcQ5MyC0gM";
-var google_conversion_value = 0;
-var google_remarketing_only = false;
-/* ]]> */
-</script>
 </body>
 </html>
