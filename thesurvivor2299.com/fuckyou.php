@@ -22,7 +22,7 @@
                     displayZeroDays : false,
                     callback	: function() {
 					$(".rev").remove();
-                    $(".Ovaltine").append('<img src="aa.jpg">');
+                    $(".Ovaltine").append('<img src="aa.gif">');
 					 },
                     addClass	: ''
                 });
