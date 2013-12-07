@@ -47,16 +47,6 @@ ________________
 
 
 Chronology:
-* All times are in UTC/GMT (PST is -8, EST is -5).
-* Bolded times are “as near as facts as we can get.”
-* Italic times are speculation.
-* Grey is raw code, blue is the assumed translation. If there is disparity in translations...
-   * Dark blue are confirmed translations (should only be used for ciphers)
-   * Orange text are possible words
-   * Red text’s meanings are entirely unknown
-
-
-Jump to Date:
 November 2013
 S
 	M
@@ -160,8 +150,16 @@ S
 
 
 
-	
+	* All times are in UTC/GMT (PST is -8, EST is -5).         Current UTC Time
+* Bolded times are “as near as facts as we can get.”
+* Italic times are speculation.
+* Grey is raw code, blue is the assumed translation. If there is disparity in translations...
+   * Dark blue are confirmed translations (should only be used for ciphers)
+   * Orange text are possible words
+   * Red text’s meanings are entirely unknown
+
 Dec 6th
+22:20 - Bethesda tweets “PSA: If you don’t hear it through an official channel like this, assume all rumors and speculation are false.” IRC has mixed feelings.
 22:02 - New morse code:
 PSE AS
 Please stand by
