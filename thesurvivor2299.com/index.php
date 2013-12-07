@@ -7,7 +7,7 @@
     <meta name="description" content="12.11.13">
      <meta name="keywords" content="The Survivor, 2299">
 	 
-<title>Ain't that a kick in the head?</title>
+<title>DCHoaxer | Ain't that a kick in the head?</title>
 <link rel="stylesheet" type="text/css" href="/assets/css/6326c898e08243230d8e2bce25db212dbd.css">
 </head>
 
