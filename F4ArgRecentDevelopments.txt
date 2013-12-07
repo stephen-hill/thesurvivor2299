@@ -162,19 +162,25 @@ S
 
 	
 Dec 6th
-22:10 - Site says “PLEASE STAND BY” in clear text instead of the 21:45 cyphertext.
+22:10 - Site nosays “PLEASE STAND BY” in clear text instead of the 21:45 cyphertext.
 22:00 - New morse code. Decodes to PSE AS (Please stand by).
 21:45 - Site updated!
-* New cyphertext: REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG VG YBBXF ONQ XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
-   * Reversing and decoding with ROT13 yields: CNO(?) HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
+* New cyphertext: 
+REV 3120 PAB UNAT BA XVQ, VG'F ABG BIRE LRG VG YBBXF ONQ XRRC GURZ OHFL, V'YY TRG UVZ GB GUR FURYGRE
+   * Reversing and decoding with ROT13 yields: 
+CNO(?) HANG ON KID, IT'S NOT OVER YET IT LOOKS BAD KEEP THEM BUSY, I'LL GET HIM TO THE SHELTER
    * There are linebreaks in the cypher, which might indicate this is a conversation between two people (likely Desmond and The Survivor):
       * Person 1: Hang on, Kid, it’s not over yet
       * Person 2: It looks bad
       * Person 1: Keep them busy. I’ll get him to the shelter
    * Usage for 3120 unknown. 
    * Meaning of “CNO” (or “PAB” if it should be left as is from the cyphertext) unknown.
-* New morse code, which decoded yields: CQ CQ CQ BR AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250
-   * Possible translation: Calling all stations, calling all stations, calling all stations. Break. Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  Attention all. Emergency Message. We are under attack. Frequency 2250.
+* New morse code:
+CQ CQ CQ BR AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250 II AA EMRG MSG WE R UR ATK FREQ 2250
+Calling all stations, calling all stations, calling all stations. Break. 
+Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  
+Attention all. Emergency Message. We are under attack. Frequency 2250. I say again.  
+Attention all. Emergency Message. We are under attack. Frequency 2250.
 
 
 
@@ -212,7 +218,6 @@ WHERE THE FUCK YOU CAME FROM? IT'S TIME TO GO. COME ON, MOVE YOUR ASS! DON'T TEL
 
 19:00 - New Morse code (Broken-Harvard-Bridge-2)
         CLG BR CLG BR RPT DY SEV ON HVB PPL AR SCRD LST NGHT WE HRD STR NES FM TI ATM WE SE STR HUM DX Ø2 MIL N SMTH INT RGTH WID TH PL K
-   * Translation consensus:
 Calling Black Row, Calling Black Row. Report: day seven, on Harvard Bridge. People are scared; last night we heard strange noises from The Institute. At the moment we see strange humans distance 2 miles north. Something isn't right with that place, over.
 
 
