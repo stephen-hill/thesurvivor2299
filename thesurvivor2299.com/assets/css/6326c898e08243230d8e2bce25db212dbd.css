@@ -10,7 +10,7 @@
 
 }
 
-body{
+body {
     font-size: 12px;
     text-align: center;
     margin: auto;
@@ -19,7 +19,7 @@ body{
     background: #222;
 }
 
-#content{
+#content {
     position: relative;
     width: 800px;
 	top: 400px;
@@ -27,34 +27,24 @@ body{
     margin: auto;
 }
 
-#top{
-    text-align: left;
-    border-bottom: 1px white solid;
-    margin-bottom: 30px;
-    padding-bottom: 10px;
+.maintxt {
+font-family: 'Monofonto'; 
+font-size:40px; 
+position: relative; 
+top:-10px;
 }
 
-#vid-count{
-    font-size: 100px;
-    font-family: 'Monofonto';
+.mtxt1 {
+font-family: 'Monofonto'; 
+font-size:15px; 
+position: relative; 
+top:10px
 }
 
-.art-count{
-    font-size: 40px;
-    font-family: 'Monofonto';
-}
-
-#footer{
-    border-top: 1px white solid;
-    color: #333;
-    padding-top: 10px;
-    text-align: left;
-    font-size: 11px;
-}
-
-.vt-counterfooter {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 200px;
+.email {
+font-family: 'Monofonto'; 
+font-size:20px; 
+position: relative; 
+top:30px; 
+text-align: center;
 }
