@@ -27,18 +27,13 @@ body {
     margin: auto;
 }
 
-.maintxt {
-font-family: 'Monofonto'; 
-font-size:40px; 
-position: relative; 
-top:-10px;
+#wrapper {
+background-color: black;
 }
 
-.mtxt1 {
+.maintxt {
 font-family: 'Monofonto'; 
-font-size:15px; 
-position: relative; 
-top:10px
+font-size:120px; 
 }
 
 .email {
